@@ -1,0 +1,21 @@
+﻿doc_id,source_file_name,region_guess,pilot_bucket,extension,pdf_kind,page_count_manifest,processed_records,records_with_text,records_needing_ocr,top_semantic_tags
+swhgz_8ac060901a96,盛泽镇志.pdf,江苏,searchable_pdf,.pdf,searchable_text_pdf,176,176,167,10,"places,dates,institutions,transport,people,relics,education,industry"
+swhgz_f4a9a18a5f20,岳西卫生志.pdf,安徽,searchable_pdf,.pdf,searchable_text_pdf,406,406,406,13,"places,dates,institutions,people,education,transport,taxation,industry"
+swhgz_7bb6b2710a31,泰州方志考略.pdf,跨省/综合,searchable_pdf,.pdf,searchable_text_pdf,13,13,13,0,"dates,places,institutions,people,taxation,relics,customs,education"
+swhgz_32ffc1ff5554,阜宁县土壤志.pdf,江苏,searchable_pdf,.pdf,searchable_text_pdf,215,215,204,91,"places,dates,industry,institutions,transport,people,relics,customs"
+swhgz_842a00b22f4b,（道光）来安县志.pdf,安徽,searchable_pdf,.pdf,searchable_text_pdf,519,519,519,0,"places,dates,institutions,people,relics,transport,taxation,education"
+swhgz_4c1c359217c6,南京建置志（一）.pdf,江苏,partial_text_pdf,.pdf,mostly_scanned_with_some_text,198,198,1,197,dates
+swhgz_366454084eda,安徽省志·纺织工业志.pdf,安徽,partial_text_pdf,.pdf,mostly_scanned_with_some_text,386,386,2,385,"dates,industry,places"
+swhgz_004a021677a6,近代上海地区方志经济史料选辑（1840—1949）.pdf,上海,partial_text_pdf,.pdf,mostly_scanned_with_some_text,404,404,3,401,"places,dates,industry,people,transport,taxation"
+swhgz_56f4b0d92bf6,上海地方志概述.pdf,跨省/综合,partial_text_pdf,.pdf,mostly_scanned_with_some_text,100,100,2,98,"dates,places"
+swhgz_6a7cf18fdfc3,兴化方言志.pdf,江苏,scanned_pdf,.pdf,scanned_image_pdf_no_text_layer,27,27,0,27,
+swhgz_34aaf204b2c3,[光绪]重修安徽通志总目录.pdf,安徽,scanned_pdf,.pdf,scanned_image_pdf_no_text_layer,15,15,0,15,
+swhgz_41e345749dec,嘉定县志·方言.pdf,上海,scanned_pdf,.pdf,scanned_image_pdf_no_text_layer,40,40,0,40,
+swhgz_29ee7be00abe,安徽方志考略.pdf,跨省/综合,scanned_pdf,.pdf,scanned_image_pdf_no_text_layer,140,140,0,140,
+swhgz_1678af90cf34,灵岩志略.pdf,未判定/综合,scanned_pdf,.pdf,scanned_image_pdf_no_text_layer,43,43,0,43,
+swhgz_4156be344675,江苏省交通志·公路篇(1978-2008) 道路运输（草.doc,江苏,doc,.doc,,,62,62,0,"places,transport,dates,institutions,taxation,education,people,industry"
+swhgz_321865661e46,安徽省 枞阳县志.doc,安徽,doc,.doc,,,190,190,0,"dates,places,institutions,transport,people,education,relics,industry"
+swhgz_3e8acdade16f,（上海市）静安区志（一）.doc,上海,doc,.doc,,,59,59,0,"dates,places,institutions,transport,industry,relics,people,education"
+swhgz_4ce3b5c5c31c,江苏旧方志提要.doc,跨省/综合,doc,.doc,,,303,303,0,"places,dates,institutions,relics,people,taxation,transport,education"
+swhgz_183d73f4dfa0,江苏省志 文物志.pdf.baiduyun.p.downloading,江苏,qc_edge,.pdf.baiduyun.p.downloading,scanned_image_pdf_no_text_layer,815,815,0,815,
+swhgz_b1898e92cfcb,苏州市志 第一册.rar,江苏,qc_edge,.rar,,,0,0,0,

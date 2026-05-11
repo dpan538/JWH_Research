@@ -1,0 +1,32 @@
+# macOS / Python noise
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Never commit original source corpus files.
+# The public repo should contain pipeline code, manifests, indexes, reports,
+# pilot outputs, and other analysis artifacts only.
+*.pdf
+*.doc
+*.docx
+*.rar
+*.zip
+*.7z
+*.baiduyun.p.downloading
+
+# Do not commit rendered page images or OCR scratch work.
+data/ocr_raw/images/
+data/ocr_raw/rendered_pages/
+data/ocr_raw/tmp/
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+
+# Local virtual environments and caches
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+

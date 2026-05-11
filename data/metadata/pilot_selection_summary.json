@@ -1,0 +1,25 @@
+{
+  "pilot_document_count": 20,
+  "target_quotas": {
+    "searchable_pdf": 5,
+    "partial_text_pdf": 4,
+    "scanned_pdf": 5,
+    "doc": 4,
+    "qc_edge": 2
+  },
+  "actual_by_bucket": {
+    "searchable_pdf": 5,
+    "partial_text_pdf": 4,
+    "scanned_pdf": 5,
+    "doc": 4,
+    "qc_edge": 2
+  },
+  "actual_by_region": {
+    "江苏": 7,
+    "安徽": 5,
+    "跨省/综合": 4,
+    "上海": 3,
+    "未判定/综合": 1
+  },
+  "selection_policy": "Deterministic balanced pilot: searchable PDF, partial text PDF, scanned PDF, DOC, and QC edge cases."
+}

@@ -1,0 +1,292 @@
+{
+  "swhgz_8ac060901a96": {
+    "tagged_page_counts": {
+      "places": 166,
+      "people": 87,
+      "dates": 162,
+      "transport": 121,
+      "institutions": 142,
+      "industry": 73,
+      "relics": 84,
+      "taxation": 40,
+      "education": 75,
+      "customs": 22,
+      "dialect": 3
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "dialect",
+      "education",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_f4a9a18a5f20": {
+    "tagged_page_counts": {
+      "people": 143,
+      "transport": 73,
+      "institutions": 307,
+      "education": 103,
+      "places": 353,
+      "dates": 339,
+      "taxation": 30,
+      "industry": 22,
+      "relics": 10,
+      "customs": 1
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "education",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_7bb6b2710a31": {
+    "tagged_page_counts": {
+      "places": 13,
+      "people": 12,
+      "dates": 13,
+      "institutions": 12,
+      "relics": 4,
+      "taxation": 5,
+      "customs": 3,
+      "education": 2,
+      "transport": 1,
+      "industry": 1
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "education",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_32ffc1ff5554": {
+    "tagged_page_counts": {
+      "places": 104,
+      "people": 5,
+      "dates": 94,
+      "transport": 33,
+      "industry": 47,
+      "institutions": 37,
+      "relics": 4,
+      "customs": 1,
+      "taxation": 1
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_842a00b22f4b": {
+    "tagged_page_counts": {
+      "places": 484,
+      "dates": 469,
+      "people": 266,
+      "institutions": 307,
+      "customs": 46,
+      "transport": 152,
+      "relics": 225,
+      "education": 108,
+      "taxation": 110,
+      "industry": 19,
+      "dialect": 1
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "dialect",
+      "education",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_4c1c359217c6": {
+    "tagged_page_counts": {
+      "dates": 1
+    },
+    "tag_keys": [
+      "dates"
+    ]
+  },
+  "swhgz_366454084eda": {
+    "tagged_page_counts": {
+      "places": 1,
+      "dates": 1,
+      "industry": 1
+    },
+    "tag_keys": [
+      "dates",
+      "industry",
+      "places"
+    ]
+  },
+  "swhgz_004a021677a6": {
+    "tagged_page_counts": {
+      "places": 3,
+      "dates": 2,
+      "people": 1,
+      "transport": 1,
+      "industry": 2,
+      "taxation": 1
+    },
+    "tag_keys": [
+      "dates",
+      "industry",
+      "people",
+      "places",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_56f4b0d92bf6": {
+    "tagged_page_counts": {
+      "places": 2,
+      "dates": 2
+    },
+    "tag_keys": [
+      "dates",
+      "places"
+    ]
+  },
+  "swhgz_4156be344675": {
+    "tagged_page_counts": {
+      "places": 62,
+      "dates": 61,
+      "transport": 62,
+      "institutions": 60,
+      "taxation": 23,
+      "education": 19,
+      "people": 16,
+      "industry": 13,
+      "relics": 2,
+      "dialect": 1,
+      "customs": 1
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "dialect",
+      "education",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_321865661e46": {
+    "tagged_page_counts": {
+      "places": 190,
+      "people": 131,
+      "dates": 190,
+      "institutions": 185,
+      "transport": 163,
+      "education": 131,
+      "industry": 106,
+      "relics": 111,
+      "taxation": 74,
+      "customs": 17,
+      "dialect": 1
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "dialect",
+      "education",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_3e8acdade16f": {
+    "tagged_page_counts": {
+      "places": 59,
+      "dates": 59,
+      "transport": 55,
+      "relics": 47,
+      "institutions": 56,
+      "taxation": 14,
+      "education": 25,
+      "industry": 54,
+      "people": 33,
+      "customs": 5
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "education",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  },
+  "swhgz_4ce3b5c5c31c": {
+    "tagged_page_counts": {
+      "places": 303,
+      "people": 297,
+      "dates": 302,
+      "transport": 270,
+      "customs": 253,
+      "relics": 299,
+      "institutions": 302,
+      "taxation": 273,
+      "education": 260,
+      "industry": 56,
+      "dialect": 57
+    },
+    "tag_keys": [
+      "customs",
+      "dates",
+      "dialect",
+      "education",
+      "industry",
+      "institutions",
+      "people",
+      "places",
+      "relics",
+      "taxation",
+      "transport"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "page_or_chunk_records": 4111,
+  "records_with_existing_text": 1836,
+  "records_needing_ocr": 2275,
+  "possible_blank_pages": 22,
+  "thin_text_layer_pages": 95,
+  "flag_counts": {
+    "needs_ocr": 2275,
+    "thin_text_layer": 95,
+    "possible_blank_page": 22
+  },
+  "by_doc": {
+    "swhgz_8ac060901a96": {
+      "records": 176,
+      "records_needing_ocr": 10,
+      "records_with_existing_text": 166,
+      "thin_text_layer_pages": 1
+    },
+    "swhgz_f4a9a18a5f20": {
+      "records": 406,
+      "records_needing_ocr": 13,
+      "thin_text_layer_pages": 13,
+      "records_with_existing_text": 393
+    },
+    "swhgz_7bb6b2710a31": {
+      "records": 13,
+      "records_with_existing_text": 13
+    },
+    "swhgz_32ffc1ff5554": {
+      "records": 215,
+      "records_with_existing_text": 124,
+      "records_needing_ocr": 91,
+      "thin_text_layer_pages": 80
+    },
+    "swhgz_842a00b22f4b": {
+      "records": 519,
+      "records_with_existing_text": 519
+    },
+    "swhgz_4c1c359217c6": {
+      "records": 198,
+      "records_needing_ocr": 197,
+      "records_with_existing_text": 1
+    },
+    "swhgz_366454084eda": {
+      "records": 386,
+      "records_needing_ocr": 385,
+      "records_with_existing_text": 1,
+      "thin_text_layer_pages": 1
+    },
+    "swhgz_004a021677a6": {
+      "records": 404,
+      "records_needing_ocr": 401,
+      "records_with_existing_text": 3
+    },
+    "swhgz_56f4b0d92bf6": {
+      "records": 100,
+      "records_needing_ocr": 98,
+      "records_with_existing_text": 2
+    },
+    "swhgz_6a7cf18fdfc3": {
+      "records": 27,
+      "records_needing_ocr": 27
+    },
+    "swhgz_34aaf204b2c3": {
+      "records": 15,
+      "records_needing_ocr": 15
+    },
+    "swhgz_41e345749dec": {
+      "records": 40,
+      "records_needing_ocr": 40
+    },
+    "swhgz_29ee7be00abe": {
+      "records": 140,
+      "records_needing_ocr": 140
+    },
+    "swhgz_1678af90cf34": {
+      "records": 43,
+      "records_needing_ocr": 43
+    },
+    "swhgz_4156be344675": {
+      "records": 62,
+      "records_with_existing_text": 62
+    },
+    "swhgz_321865661e46": {
+      "records": 190,
+      "records_with_existing_text": 190
+    },
+    "swhgz_3e8acdade16f": {
+      "records": 59,
+      "records_with_existing_text": 59
+    },
+    "swhgz_4ce3b5c5c31c": {
+      "records": 303,
+      "records_with_existing_text": 303
+    },
+    "swhgz_183d73f4dfa0": {
+      "records": 815,
+      "records_needing_ocr": 815,
+      "possible_blank_pages": 22
+    }
+  }
+}

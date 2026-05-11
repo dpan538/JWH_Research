@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-05-11T22:44:40",
+  "mode": "dry_run",
+  "queued_records": 2275,
+  "max_pages": 25,
+  "tesseract_available": false,
+  "tesseract_path": null,
+  "note": "This script is intentionally conservative. It does not run full-corpus OCR.",
+  "status": "not_run_dry_run_only"
+}

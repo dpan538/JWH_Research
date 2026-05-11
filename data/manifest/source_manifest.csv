@@ -1,0 +1,494 @@
+﻿file_name,size_mb,extension,reader,read_status,page_count,pdf_kind,text_chars,text_pages,image_pages,region_guess,period_terms,genre_tags,outline_count
+[乾隆]庐州卫志（卷三）.pdf,6.47,.pdf,PyMuPDF,ok,97,scanned_image_pdf_no_text_layer,0,0,96,安徽,乾隆,地方文献/杂志类,0
+[乾隆]庐州卫志（卷六）.pdf,7.54,.pdf,PyMuPDF,ok,91,scanned_image_pdf_no_text_layer,0,0,90,安徽,乾隆,地方文献/杂志类,0
+[乾隆]庐州卫志（卷四、卷五）.pdf,8.26,.pdf,PyMuPDF,ok,99,scanned_image_pdf_no_text_layer,0,0,98,安徽,乾隆,地方文献/杂志类,0
+[乾隆]庐州卫志（卷首、卷一、卷二）.pdf,10.37,.pdf,PyMuPDF,ok,152,scanned_image_pdf_no_text_layer,0,0,151,安徽,乾隆,地方文献/杂志类,0
+[光绪]无锡斗门小志.pdf,5.51,.pdf,PyMuPDF,ok,78,scanned_image_pdf_no_text_layer,0,0,77,江苏,光绪,乡镇村里志,0
+[光绪]重修安徽通志总目录.pdf,0.57,.pdf,PyMuPDF,ok,15,scanned_image_pdf_no_text_layer,0,0,15,安徽,光绪,省志/通志|方志目录研究,0
+[光绪]重修安徽通志（卷一一六至卷一四九）.pdf,26.29,.pdf,PyMuPDF,ok,385,scanned_image_pdf_no_text_layer,0,0,385,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷一五〇至卷一八二）.pdf,31.8,.pdf,PyMuPDF,ok,388,scanned_image_pdf_no_text_layer,0,0,388,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷一八三至卷二二三）.pdf,38.99,.pdf,PyMuPDF,ok,409,scanned_image_pdf_no_text_layer,0,0,409,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷一至卷三十八）.pdf,33.75,.pdf,PyMuPDF,ok,395,scanned_image_pdf_no_text_layer,0,0,395,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷三二八至卷三五〇 补遗十.pdf,33.82,.pdf,PyMuPDF,ok,390,scanned_image_pdf_no_text_layer,0,0,390,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷三十九至卷八十一）.pdf,33.97,.pdf,PyMuPDF,ok,385,scanned_image_pdf_no_text_layer,0,0,385,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷二九五至卷三二七）.pdf,35.75,.pdf,PyMuPDF,ok,396,scanned_image_pdf_no_text_layer,0,0,396,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷二二四至卷二六二）.pdf,37.04,.pdf,PyMuPDF,ok,405,scanned_image_pdf_no_text_layer,0,0,405,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷二六三至卷二九四）.pdf,33.42,.pdf,PyMuPDF,ok,383,scanned_image_pdf_no_text_layer,0,0,383,安徽,光绪,省志/通志,0
+[光绪]重修安徽通志（卷八十二至卷一一五）.pdf,37.69,.pdf,PyMuPDF,ok,397,scanned_image_pdf_no_text_layer,0,0,397,安徽,光绪,省志/通志,0
+[崇祯]松江府志（上、下册）.pdf,47.09,.pdf,PyMuPDF,ok,1546,mostly_scanned_with_some_text,91,1,1538,上海,崇祯,府州县区市志,1542
+[民国]兴化县小通志.pdf,8.7,.pdf,PyMuPDF,ok,193,scanned_image_pdf_no_text_layer,0,0,193,江苏,民国,省志/通志,0
+[民国]嘉定疁东志 [清]娄塘志·马陆志·石冈广福.pdf,31.13,.pdf,PyMuPDF,ok,703,scanned_image_pdf_no_text_layer,0,0,702,上海,民国|清,地方文献/杂志类,0
+[民国]杏花村续志.pdf,8.34,.pdf,PyMuPDF,ok,154,scanned_image_pdf_no_text_layer,0,0,151,未判定/综合,民国,地方文献/杂志类,0
+上海军事志.pdf,27.25,.pdf,PyMuPDF,ok,636,scanned_image_pdf_no_text_layer,0,0,635,上海,,军事公安审判,4
+上海地方志概述.pdf,3.37,.pdf,PyMuPDF,ok,100,mostly_scanned_with_some_text,308,2,98,跨省/综合,,地方文献/杂志类,20
+上海小志 上海乡土志 夷患备尝记.pdf,2.76,.pdf,PyMuPDF,ok,164,scanned_image_pdf_no_text_layer,0,0,164,上海,,乡镇村里志,0
+上海市区方言志.pdf,15.07,.pdf,PyMuPDF,ok,595,scanned_image_pdf_no_text_layer,0,0,595,上海,,方言民俗风土,0
+上海方志提要.pdf,31.01,.pdf,PyMuPDF,ok,716,mostly_scanned_with_some_text,20248,33,683,跨省/综合,,方志目录研究,1439
+上海方志资料考录.pdf,7.92,.pdf,PyMuPDF,ok,536,scanned_image_pdf_no_text_layer,0,0,536,跨省/综合,,方志目录研究,0
+上海方志通考.pdf,46.99,.pdf,PyMuPDF,ok,483,mostly_scanned_with_some_text,92,1,482,跨省/综合,,方志目录研究,444
+上海越剧志.pdf,33.05,.pdf,PyMuPDF,ok,469,scanned_image_pdf_no_text_layer,0,0,469,上海,,地方文献/杂志类,425
+上海通志馆期刊 第一卷（1-4期）.pdf,29.86,.pdf,PyMuPDF,ok,1188,scanned_image_pdf_no_text_layer,0,0,1188,跨省/综合,,省志/通志,4
+上海通志馆期刊 第二卷（1-4期）.pdf,39.57,.pdf,PyMuPDF,ok,1514,scanned_image_pdf_no_text_layer,0,0,1514,跨省/综合,,省志/通志,4
+上海风土杂记.pdf,13.32,.pdf,PyMuPDF,ok,104,scanned_image_pdf_no_text_layer,0,0,104,上海,,方言民俗风土,0
+东台县志（一、二、三、四册）.pdf,30.26,.pdf,PyMuPDF,ok,1638,scanned_image_pdf_no_text_layer,0,0,1638,江苏,,府州县区市志,4
+丰南志.pdf,7.7,.pdf,PyMuPDF,ok,352,scanned_image_pdf_no_text_layer,0,0,352,未判定/综合,,地方文献/杂志类,352
+丰县志（二、三册）.pdf,8.76,.pdf,PyMuPDF,ok,365,scanned_image_pdf_no_text_layer,0,0,365,江苏,,府州县区市志,3
+乾隆元和县志.pdf,18.74,.pdf,PyMuPDF,ok,519,mostly_scanned_with_some_text,73,1,518,江苏,乾隆|元,府州县区市志,517
+乾隆太平府志.pdf,33.57,.pdf,PyMuPDF,ok,798,scanned_image_pdf_no_text_layer,0,0,797,未判定/综合,乾隆,府州县区市志,0
+乾隆歙县志（1-5册）.pdf,48.34,.pdf,PyMuPDF,ok,1841,scanned_image_pdf_no_text_layer,0,0,1841,安徽,乾隆,府州县区市志,2
+乾隆江都县志 嘉庆江都县续志.pdf,27.54,.pdf,PyMuPDF,ok,642,mostly_scanned_with_some_text,82,1,641,江苏,乾隆|嘉庆,府州县区市志,641
+乾隆池州府志.pdf,29.88,.pdf,PyMuPDF,ok,760,scanned_image_pdf_no_text_layer,0,0,760,安徽,乾隆,府州县区市志,0
+乾隆灵璧县志略 乾隆泗州志 光绪泗虹合志.pdf,21.54,.pdf,PyMuPDF,ok,655,scanned_image_pdf_no_text_layer,0,0,655,安徽,乾隆|光绪,府州县区市志,0
+乾隆砀山县志 嘉庆萧县志 同治续萧县志.pdf,28.17,.pdf,PyMuPDF,ok,763,scanned_image_pdf_no_text_layer,0,0,762,安徽,乾隆|嘉庆|同治,府州县区市志,0
+乾隆镇江府志（一）.pdf,19.1,.pdf,PyMuPDF,ok,672,mostly_scanned_with_some_text,91,1,671,江苏,乾隆,府州县区市志,670
+乾隆镇江府志（二）.pdf,22.94,.pdf,PyMuPDF,ok,680,mostly_scanned_with_some_text,91,1,679,江苏,乾隆,府州县区市志,679
+乾隆长洲县志.pdf,18.7,.pdf,PyMuPDF,ok,484,mostly_scanned_with_some_text,73,1,483,江苏,乾隆,府州县区市志,483
+乾隆震泽县志 震泽县志续 垂虹识小录.pdf,19.16,.pdf,PyMuPDF,ok,522,mostly_scanned_with_some_text,87,1,521,江苏,乾隆,府州县区市志,521
+乾隆颍州府志.pdf,19.76,.pdf,PyMuPDF,ok,638,scanned_image_pdf_no_text_layer,0,0,638,安徽,乾隆,府州县区市志,0
+京杭运河志（苏北段）.pdf,12.7,.pdf,PyMuPDF,ok,836,scanned_image_pdf_no_text_layer,0,0,836,江苏,,交通运输,0
+仰山乘.pdf,6.92,.pdf,PyMuPDF,ok,420,scanned_image_pdf_no_text_layer,0,0,420,未判定/综合,,地方文献/杂志类,5
+光绪丰县志 光绪睢宁县志稿 光绪赣榆县志 民国赣.pdf,31.66,.pdf,PyMuPDF,ok,768,mostly_scanned_with_some_text,99,1,767,江苏,光绪|民国,府州县区市志,767
+光绪丹徒县志(一).pdf,34.09,.pdf,PyMuPDF,ok,832,mostly_scanned_with_some_text,76,1,831,江苏,光绪,府州县区市志,831
+光绪丹徒县志(二) 民国续丹徒县志.pdf,35.59,.pdf,PyMuPDF,ok,842,mostly_scanned_with_some_text,87,1,841,江苏,光绪|民国,府州县区市志,841
+光绪丹阳县志 民国丹阳县志补遗 民国丹阳县续志.pdf,28.8,.pdf,PyMuPDF,ok,707,mostly_scanned_with_some_text,92,1,706,江苏,光绪|民国,府州县区市志,706
+光绪亳州志 民国毫县志略.pdf,21.51,.pdf,PyMuPDF,ok,572,scanned_image_pdf_no_text_layer,0,0,572,安徽,光绪|民国,府州县区市志,0
+光绪六合县志 民国六合县续志稿 民国棠志拾遗.pdf,40.63,.pdf,PyMuPDF,ok,554,scanned_image_pdf_no_text_layer,0,0,554,江苏,光绪|民国,府州县区市志,3
+光绪再续高邮州志 民国三续高邮州志 高邮志馀 高.pdf,30.32,.pdf,PyMuPDF,ok,889,mostly_scanned_with_some_text,98,1,888,江苏,光绪|民国,府州县区市志,887
+光绪凤台县志 涡阳风土记 民国重修蒙城县志.pdf,34.9,.pdf,PyMuPDF,ok,905,scanned_image_pdf_no_text_layer,0,0,904,安徽,光绪|民国,府州县区市志|方言民俗风土,0
+光绪凤阳府志（一）.pdf,14.63,.pdf,PyMuPDF,ok,534,scanned_image_pdf_no_text_layer,0,0,534,安徽,光绪,府州县区市志,0
+光绪凤阳府志（二）.pdf,19.53,.pdf,PyMuPDF,ok,495,scanned_image_pdf_no_text_layer,0,0,494,安徽,光绪,府州县区市志,0
+光绪吴江县续志 乾隆吴江县志(二).pdf,25.16,.pdf,PyMuPDF,ok,576,mostly_scanned_with_some_text,85,1,575,江苏,乾隆|光绪,府州县区市志,575
+光绪增修甘泉县志(一).pdf,31.47,.pdf,PyMuPDF,ok,766,mostly_scanned_with_some_text,78,1,765,江苏,光绪,府州县区市志,764
+光绪增修甘泉县志(二) 民国甘泉县续志.pdf,25.7,.pdf,PyMuPDF,ok,584,mostly_scanned_with_some_text,87,1,583,江苏,光绪|民国,府州县区市志,583
+光绪宜兴荆溪县新志 光宣宜荆续志.pdf,28.45,.pdf,PyMuPDF,ok,606,mostly_scanned_with_some_text,84,1,605,江苏,光绪,地方文献/杂志类,604
+光绪宿州志.pdf,19.62,.pdf,PyMuPDF,ok,668,scanned_image_pdf_no_text_layer,0,0,668,安徽,光绪,府州县区市志,0
+光绪寿州志.pdf,25.97,.pdf,PyMuPDF,ok,590,scanned_image_pdf_no_text_layer,0,0,590,安徽,光绪,府州县区市志,0
+光绪常昭合志稿.pdf,34.96,.pdf,PyMuPDF,ok,854,mostly_scanned_with_some_text,74,1,853,未判定/综合,光绪,地方文献/杂志类,852
+光绪广德州志 民国广德县志稿.pdf,37.49,.pdf,PyMuPDF,ok,924,scanned_image_pdf_no_text_layer,0,0,924,安徽,光绪|民国,府州县区市志,0
+光绪庐江县志.pdf,21.05,.pdf,PyMuPDF,ok,622,scanned_image_pdf_no_text_layer,0,0,622,安徽,光绪,府州县区市志,0
+光绪无锡金匮县志.pdf,31.76,.pdf,PyMuPDF,ok,805,scanned_image_pdf_no_text_layer,0,0,805,江苏,光绪,府州县区市志,0
+光绪昆新两县续修合志(一).pdf,28.38,.pdf,PyMuPDF,ok,633,mostly_scanned_with_some_text,80,1,632,未判定/综合,光绪,地方文献/杂志类,632
+光绪昆新两县续修合志（二） 民国昆新两县续补合.pdf,27.09,.pdf,PyMuPDF,ok,635,scanned_image_pdf_no_text_layer,0,0,634,未判定/综合,光绪|民国,地方文献/杂志类,0
+光绪武进阳湖县志.pdf,32.36,.pdf,PyMuPDF,ok,780,mostly_scanned_with_some_text,75,1,779,江苏,光绪,府州县区市志,779
+光绪武阳志馀.pdf,30.45,.pdf,PyMuPDF,ok,742,mostly_scanned_with_some_text,73,1,741,未判定/综合,光绪,地方文献/杂志类,740
+光绪江浦埤乘 光绪靖江县志（一）.pdf,30.36,.pdf,PyMuPDF,ok,415,scanned_image_pdf_no_text_layer,0,0,415,未判定/综合,光绪,府州县区市志,0
+光绪江浦埤乘 光绪靖江县志（二）.pdf,25.45,.pdf,PyMuPDF,ok,380,scanned_image_pdf_no_text_layer,0,0,380,未判定/综合,光绪,府州县区市志,0
+光绪江都县志 民国江都县续志 民国江都县新志.pdf,36.35,.pdf,PyMuPDF,ok,908,mostly_scanned_with_some_text,91,1,907,江苏,光绪|民国,府州县区市志,907
+光绪江阴县志.pdf,32.3,.pdf,PyMuPDF,ok,834,mostly_scanned_with_some_text,73,1,833,江苏,光绪,府州县区市志,832
+光绪盐城县志 民国续修盐城县志稿 民国盐城续志.pdf,19.16,.pdf,PyMuPDF,ok,487,scanned_image_pdf_no_text_layer,0,0,487,江苏,光绪|民国,府州县区市志,3
+光绪直隶和州志.pdf,21.69,.pdf,PyMuPDF,ok,618,scanned_image_pdf_no_text_layer,0,0,618,安徽,光绪,府州县区市志,0
+光绪续修庐州府志（一）.pdf,29.49,.pdf,PyMuPDF,ok,695,scanned_image_pdf_no_text_layer,0,0,695,安徽,光绪,府州县区市志,0
+光绪续修庐州府志（三）.pdf,25.16,.pdf,PyMuPDF,ok,660,scanned_image_pdf_no_text_layer,0,0,660,安徽,光绪,府州县区市志,0
+光绪续修庐州府志（二）.pdf,25.57,.pdf,PyMuPDF,ok,630,scanned_image_pdf_no_text_layer,0,0,630,安徽,光绪,府州县区市志,0
+光绪续纂句容县志.pdf,30.64,.pdf,PyMuPDF,ok,614,mostly_scanned_with_some_text,75,1,613,江苏,光绪,府州县区市志,612
+光绪贵池县志.pdf,23.93,.pdf,PyMuPDF,ok,616,scanned_image_pdf_no_text_layer,0,0,615,安徽,光绪,府州县区市志,0
+光绪霍山县志 乾隆望江县志.pdf,26.46,.pdf,PyMuPDF,ok,702,scanned_image_pdf_no_text_layer,0,0,702,安徽,乾隆|光绪,府州县区市志,0
+光绪青阳县志 青阳县志刊误补遗.pdf,22.86,.pdf,PyMuPDF,ok,622,scanned_image_pdf_no_text_layer,0,0,622,安徽,光绪,府州县区市志,0
+兴化方言志.pdf,1.49,.pdf,PyMuPDF,ok,27,scanned_image_pdf_no_text_layer,0,0,27,江苏,,方言民俗风土,0
+凤阳县志略（全）.pdf,1.02,.pdf,PyMuPDF,ok,52,scanned_image_pdf_no_text_layer,0,0,52,安徽,,府州县区市志,0
+华亭县乡土志.doc,11.54,.doc,binary_decode_heuristic+file_metadata,ok,,,4030,,,上海,,地方文献/杂志类,
+南京二轻工业志（一）.pdf,26.99,.pdf,PyMuPDF,ok,146,scanned_image_pdf_no_text_layer,0,0,146,江苏,,产业行业志,0
+南京二轻工业志（二）.pdf,22.5,.pdf,PyMuPDF,ok,123,scanned_image_pdf_no_text_layer,0,0,123,江苏,,产业行业志,0
+南京交通志（一）.pdf,42.69,.pdf,PyMuPDF,ok,199,scanned_image_pdf_no_text_layer,0,0,199,江苏,,省志/通志|交通运输,0
+南京交通志（二）.pdf,36.82,.pdf,PyMuPDF,ok,204,scanned_image_pdf_no_text_layer,0,0,204,江苏,,省志/通志|交通运输,0
+南京人物志（一）.pdf,45.67,.pdf,PyMuPDF,ok,165,scanned_image_pdf_no_text_layer,0,0,165,江苏,,人物传记,0
+南京人物志（三）.pdf,46.6,.pdf,PyMuPDF,ok,150,scanned_image_pdf_no_text_layer,0,0,150,江苏,,人物传记,0
+南京人物志（二）.pdf,46.22,.pdf,PyMuPDF,ok,144,scanned_image_pdf_no_text_layer,0,0,144,江苏,,人物传记,0
+南京人物志（五）.pdf,37.06,.pdf,PyMuPDF,ok,186,scanned_image_pdf_no_text_layer,0,0,186,江苏,,人物传记,0
+南京人物志（四）.pdf,42.39,.pdf,PyMuPDF,ok,180,scanned_image_pdf_no_text_layer,0,0,180,江苏,,人物传记,0
+南京公安志（一）.pdf,41.11,.pdf,PyMuPDF,ok,172,scanned_image_pdf_no_text_layer,0,0,172,江苏,,军事公安审判,0
+南京公安志（二）.pdf,30.01,.pdf,PyMuPDF,ok,109,scanned_image_pdf_no_text_layer,0,0,109,江苏,,军事公安审判,0
+南京公用事业志.pdf,41.62,.pdf,PyMuPDF,ok,215,scanned_image_pdf_no_text_layer,0,0,215,江苏,,地方文献/杂志类,220
+南京工会志.pdf,12.22,.pdf,PyMuPDF,ok,500,scanned_image_pdf_no_text_layer,0,0,500,江苏,,军事公安审判,151
+南京建筑志.pdf,38.26,.pdf,PyMuPDF,ok,313,scanned_image_pdf_no_text_layer,0,0,313,江苏,,文化教育文物,350
+南京建置志（一）.pdf,42.73,.pdf,PyMuPDF,ok,198,mostly_scanned_with_some_text,137,1,198,江苏,,地方文献/杂志类,0
+南京建置志（二）.pdf,40.04,.pdf,PyMuPDF,ok,189,scanned_image_pdf_no_text_layer,0,0,189,江苏,,地方文献/杂志类,0
+南京方言志.pdf,4.72,.pdf,PyMuPDF,ok,322,mostly_scanned_with_some_text,77,2,320,江苏,,方言民俗风土,6
+南京日用工业品商业志.pdf,42.29,.pdf,PyMuPDF,ok,222,scanned_image_pdf_no_text_layer,0,0,222,江苏,,产业行业志,261
+南京民俗志.pdf,41.79,.pdf,PyMuPDF,ok,173,scanned_image_pdf_no_text_layer,0,0,173,江苏,,方言民俗风土,166
+南京海关志.pdf,4.98,.pdf,PyMuPDF,ok,261,scanned_image_pdf_no_text_layer,0,0,260,江苏,,经济财政工商,0
+南京蔬菜志.pdf,39.0,.pdf,PyMuPDF,ok,197,scanned_image_pdf_no_text_layer,0,0,197,江苏,,产业行业志,198
+南汇县志.pdf,31.64,.pdf,PyMuPDF,ok,909,mostly_scanned_with_some_text,20042,25,884,上海,,府州县区市志,1464
+南翔镇志.pdf,4.63,.pdf,PyMuPDF,ok,235,scanned_image_pdf_no_text_layer,0,0,234,上海,,乡镇村里志,0
+同治上江两县志（一）.pdf,37.3,.pdf,PyMuPDF,ok,411,scanned_image_pdf_no_text_layer,0,0,411,未判定/综合,同治,府州县区市志,0
+同治上江两县志（二）.pdf,23.46,.pdf,PyMuPDF,ok,268,scanned_image_pdf_no_text_layer,0,0,267,未判定/综合,同治,府州县区市志,0
+同治六安州志（一）.pdf,21.64,.pdf,PyMuPDF,ok,645,scanned_image_pdf_no_text_layer,0,0,644,安徽,同治,府州县区市志,0
+同治六安州志（二）.pdf,20.78,.pdf,PyMuPDF,ok,598,scanned_image_pdf_no_text_layer,0,0,598,安徽,同治,府州县区市志,0
+同治徐州府志.pdf,39.92,.pdf,PyMuPDF,ok,875,mostly_scanned_with_some_text,73,1,874,江苏,同治,府州县区市志,874
+同治祁门县志 光绪祁门县志补.pdf,19.43,.pdf,PyMuPDF,ok,579,scanned_image_pdf_no_text_layer,0,0,579,安徽,同治|光绪,府州县区市志,0
+同治祁门县志（1-4册）.pdf,28.88,.pdf,PyMuPDF,ok,1411,scanned_image_pdf_no_text_layer,0,0,1411,安徽,同治,府州县区市志,3
+同治续纂江宁府志（一）.pdf,33.03,.pdf,PyMuPDF,ok,341,scanned_image_pdf_no_text_layer,0,0,340,江苏,同治,府州县区市志,0
+同治续纂江宁府志（二）.pdf,26.79,.pdf,PyMuPDF,ok,259,scanned_image_pdf_no_text_layer,0,0,258,江苏,同治,府州县区市志,0
+同治苏州府志（一）-1.pdf,36.27,.pdf,PyMuPDF,ok,453,scanned_image_pdf_no_text_layer,0,0,452,江苏,同治,府州县区市志,0
+同治苏州府志（一）-2.pdf,29.78,.pdf,PyMuPDF,ok,455,scanned_image_pdf_no_text_layer,0,0,455,江苏,同治,府州县区市志,0
+同治苏州府志（三）.pdf,33.91,.pdf,PyMuPDF,ok,920,scanned_image_pdf_no_text_layer,0,0,919,江苏,同治,府州县区市志,5
+同治苏州府志（二）.pdf,31.36,.pdf,PyMuPDF,ok,859,scanned_image_pdf_no_text_layer,0,0,859,江苏,同治,府州县区市志,4
+同治苏州府志（四）.pdf,30.02,.pdf,PyMuPDF,ok,802,scanned_image_pdf_no_text_layer,0,0,799,江苏,同治,府州县区市志,4
+同治霍邱县志.pdf,17.65,.pdf,PyMuPDF,ok,569,scanned_image_pdf_no_text_layer,0,0,569,安徽,同治,府州县区市志,0
+同治颍上县志 颍上县志校补 民国临泉县志略 民国.pdf,19.57,.pdf,PyMuPDF,ok,590,scanned_image_pdf_no_text_layer,0,0,589,安徽,同治|民国,府州县区市志,0
+同治黟县三志（一、二册）.pdf,26.21,.pdf,PyMuPDF,ok,704,scanned_image_pdf_no_text_layer,0,0,704,安徽,同治,地方文献/杂志类,0
+吴中人物志.pdf,11.68,.pdf,PyMuPDF,ok,144,scanned_image_pdf_no_text_layer,0,0,144,江苏,,人物传记,0
+吴地记.pdf,5.56,.pdf,PyMuPDF,ok,204,mostly_scanned_with_some_text,20,1,203,未判定/综合,,地方文献/杂志类,6
+吴趋访古录.pdf,5.43,.pdf,PyMuPDF,ok,253,mostly_scanned_with_some_text,20,1,252,未判定/综合,,地方文献/杂志类,6
+吴郡人物志.pdf,9.64,.pdf,PyMuPDF,ok,755,mostly_scanned_with_some_text,72,1,754,江苏,,人物传记,0
+吴郡图经续记.pdf,9.43,.pdf,PyMuPDF,ok,130,scanned_image_pdf_no_text_layer,0,0,130,江苏,,地方文献/杂志类,53
+吴郡岁华纪丽.pdf,12.92,.pdf,PyMuPDF,ok,438,mostly_scanned_with_some_text,20,1,437,江苏,,方言民俗风土,6
+吴郡志.pdf,22.58,.pdf,PyMuPDF,ok,699,scanned_image_pdf_no_text_layer,0,0,699,江苏,,地方文献/杂志类,117
+吴门表隐.pdf,15.23,.pdf,PyMuPDF,ok,500,mostly_scanned_with_some_text,20,1,499,未判定/综合,,地方文献/杂志类,6
+咸丰重修兴化县志 民国续修兴化县志.pdf,28.67,.pdf,PyMuPDF,ok,727,mostly_scanned_with_some_text,85,1,726,江苏,咸丰|民国,府州县区市志,725
+善和乡志.pdf,4.14,.pdf,PyMuPDF,ok,147,scanned_image_pdf_no_text_layer,0,0,147,未判定/综合,,乡镇村里志,0
+嘉定县志·方言.pdf,2.05,.pdf,PyMuPDF,ok,40,scanned_image_pdf_no_text_layer,0,0,40,上海,,府州县区市志|方言民俗风土,0
+嘉庆增修宜兴县旧志.pdf,23.63,.pdf,PyMuPDF,ok,542,mostly_scanned_with_some_text,76,1,541,江苏,嘉庆,地方文献/杂志类,540
+嘉庆备修天长县志稿 光绪滁州志.pdf,18.62,.pdf,PyMuPDF,ok,516,scanned_image_pdf_no_text_layer,0,0,516,安徽,嘉庆|光绪,府州县区市志,0
+嘉庆宁国府志（一）.pdf,19.62,.pdf,PyMuPDF,ok,585,scanned_image_pdf_no_text_layer,0,0,585,安徽,嘉庆,府州县区市志,0
+嘉庆宁国府志（二）.pdf,23.21,.pdf,PyMuPDF,ok,505,scanned_image_pdf_no_text_layer,0,0,505,安徽,嘉庆,府州县区市志,0
+嘉庆庐州府志.pdf,29.66,.pdf,PyMuPDF,ok,731,scanned_image_pdf_no_text_layer,0,0,730,安徽,嘉庆,府州县区市志,0
+嘉庆怀远县志 光绪重修五河县志.pdf,26.23,.pdf,PyMuPDF,ok,671,scanned_image_pdf_no_text_layer,0,0,671,安徽,嘉庆|光绪,府州县区市志,0
+嘉庆旌德县志 道光旌德县续志.pdf,20.73,.pdf,PyMuPDF,ok,508,scanned_image_pdf_no_text_layer,0,0,508,安徽,嘉庆|道光,府州县区市志,0
+嘉庆无为州志 民国无为县小志.pdf,16.99,.pdf,PyMuPDF,ok,454,scanned_image_pdf_no_text_layer,0,0,454,安徽,嘉庆|民国,府州县区市志|乡镇村里志,0
+嘉庆海州直隶州志 道光云台新志.pdf,30.71,.pdf,PyMuPDF,ok,758,mostly_scanned_with_some_text,83,1,757,江苏,嘉庆|道光,府州县区市志,757
+嘉庆溧阳县志 光绪溧阳县续志.pdf,28.23,.pdf,PyMuPDF,ok,638,mostly_scanned_with_some_text,82,1,637,未判定/综合,嘉庆|光绪,府州县区市志,637
+嘉庆舒城县志 光绪续修舒城县志.pdf,30.74,.pdf,PyMuPDF,ok,930,scanned_image_pdf_no_text_layer,0,0,930,安徽,嘉庆|光绪,府州县区市志,0
+嘉庆重修扬州府志(一).pdf,41.13,.pdf,PyMuPDF,ok,807,mostly_scanned_with_some_text,80,1,806,江苏,嘉庆,府州县区市志,806
+嘉庆重修扬州府志(二) 同治续纂扬州府志.pdf,48.5,.pdf,PyMuPDF,ok,995,mostly_scanned_with_some_text,88,1,994,江苏,嘉庆|同治,府州县区市志,995
+嘉庆高邮州志 道光续增高邮州志.pdf,31.8,.pdf,PyMuPDF,ok,795,mostly_scanned_with_some_text,83,1,794,江苏,嘉庆|道光,府州县区市志,793
+嘉庆黟县志 道光黟县续志.pdf,23.89,.pdf,PyMuPDF,ok,601,scanned_image_pdf_no_text_layer,0,0,601,安徽,嘉庆|道光,府州县区市志,0
+嘉靖吴江县志.pdf,18.89,.pdf,PyMuPDF,ok,1423,scanned_image_pdf_no_text_layer,0,0,1422,江苏,嘉靖,府州县区市志,3
+嘉靖天长县志.pdf,6.83,.pdf,PyMuPDF,ok,510,scanned_image_pdf_no_text_layer,0,0,510,安徽,嘉靖,府州县区市志,0
+嘉靖宿州志.pdf,4.94,.pdf,PyMuPDF,ok,300,scanned_image_pdf_no_text_layer,0,0,300,安徽,嘉靖,府州县区市志,0
+嘉靖寿州志.pdf,8.08,.pdf,PyMuPDF,ok,600,scanned_image_pdf_no_text_layer,0,0,600,安徽,嘉靖,府州县区市志,0
+嘉靖建平县志.pdf,5.27,.pdf,PyMuPDF,ok,350,scanned_image_pdf_no_text_layer,0,0,350,安徽,嘉靖,府州县区市志,0
+嘉靖徽州府志.pdf,15.01,.pdf,PyMuPDF,ok,371,scanned_image_pdf_no_text_layer,0,0,371,安徽,嘉靖,府州县区市志,8
+嘉靖江阴县志.pdf,32.67,.pdf,PyMuPDF,ok,1000,scanned_image_pdf_no_text_layer,0,0,1000,江苏,嘉靖,府州县区市志,0
+嘉靖池州府志.pdf,15.24,.pdf,PyMuPDF,ok,720,scanned_image_pdf_no_text_layer,0,0,720,安徽,嘉靖,府州县区市志,0
+太仓州志（1-6册）.pdf,42.96,.pdf,PyMuPDF,ok,2173,scanned_image_pdf_no_text_layer,0,0,2173,江苏,,府州县区市志,4
+太和县志（一、二、三册）.pdf,22.34,.pdf,PyMuPDF,ok,1146,mostly_scanned_with_some_text,71,2,1144,安徽,,府州县区市志,4
+太平府志（一、二册）.pdf,26.96,.pdf,PyMuPDF,ok,747,scanned_image_pdf_no_text_layer,0,0,747,未判定/综合,,府州县区市志,0
+太湖备考.pdf,19.53,.pdf,PyMuPDF,ok,743,mostly_scanned_with_some_text,20,1,742,安徽,,地方文献/杂志类,6
+奉贤县志（1-3册）.pdf,23.07,.pdf,PyMuPDF,ok,1100,scanned_image_pdf_no_text_layer,0,0,1100,上海,,府州县区市志,4
+安亭志.pdf,7.1,.pdf,PyMuPDF,ok,384,scanned_image_pdf_no_text_layer,0,0,383,上海,,地方文献/杂志类,0
+安庆地区志.pdf,49.9,.pdf,PyMuPDF,ok,1450,mostly_scanned_with_some_text,78,2,1448,安徽,,府州县区市志,6
+安庆市郊区志.pdf,18.02,.pdf,PyMuPDF,ok,437,mostly_scanned_with_some_text,89,2,435,安徽,,府州县区市志,3
+安徽方志考略.pdf,2.87,.pdf,PyMuPDF,ok,140,scanned_image_pdf_no_text_layer,0,0,140,跨省/综合,,方志目录研究,5
+安徽省 临泉县志.pdf,33.2,.pdf,PyMuPDF,ok,604,mostly_scanned_with_some_text,4223,8,596,安徽,,府州县区市志,277
+安徽省 休宁县志.pdf,13.68,.pdf,PyMuPDF,ok,674,mostly_scanned_with_some_text,7653,10,664,安徽,,府州县区市志,509
+安徽省 全椒县志.pdf,24.31,.pdf,PyMuPDF,ok,745,mostly_scanned_with_some_text,5577,8,737,安徽,,府州县区市志,418
+安徽省 利辛县志.pdf,31.66,.pdf,PyMuPDF,ok,526,searchable_text_pdf,402104,501,520,安徽,,府州县区市志,0
+安徽省 含山县志.pdf,21.86,.pdf,PyMuPDF,ok,709,mostly_scanned_with_some_text,2329,5,704,安徽,,府州县区市志,194
+安徽省 固镇县志.pdf,16.48,.pdf,PyMuPDF,ok,525,mostly_scanned_with_some_text,9346,12,513,安徽,,府州县区市志,635
+安徽省 天长县志（上）.pdf,8.23,.pdf,PyMuPDF,ok,244,scanned_image_pdf_no_text_layer,0,0,243,安徽,,府州县区市志,0
+安徽省 太湖县志（一）.pdf,29.46,.pdf,PyMuPDF,ok,402,scanned_image_pdf_no_text_layer,0,0,402,安徽,,府州县区市志,0
+安徽省 太湖县志（二）.pdf,47.68,.pdf,PyMuPDF,ok,384,scanned_image_pdf_no_text_layer,0,0,384,安徽,,府州县区市志,0
+安徽省 岳西县志.pdf,46.85,.pdf,PyMuPDF,ok,657,scanned_image_pdf_no_text_layer,0,0,657,安徽,,府州县区市志,193
+安徽省 怀远县志.pdf,17.74,.pdf,PyMuPDF,ok,655,mostly_scanned_with_some_text,5203,7,648,安徽,,府州县区市志,345
+安徽省 旌德县志.pdf,17.17,.pdf,PyMuPDF,ok,675,mostly_scanned_with_some_text,2219,6,669,安徽,,府州县区市志,188
+安徽省 枞阳县志.doc,0.99,.doc,binary_decode_heuristic+file_metadata,ok,,,12748,,,安徽,,府州县区市志,
+安徽省 歙县志.pdf,5.2,.pdf,PyMuPDF,ok,1373,searchable_text_pdf,2017992,1373,3,安徽,,府州县区市志,204
+安徽省 涡阳县志.pdf,21.42,.pdf,PyMuPDF,ok,825,scanned_image_pdf_no_text_layer,0,0,825,安徽,,府州县区市志,0
+安徽省 界首县志.pdf,16.77,.pdf,PyMuPDF,ok,603,mostly_scanned_with_some_text,7733,10,593,安徽,,府州县区市志,555
+安徽省 繁昌县志.pdf,14.78,.pdf,PyMuPDF,ok,529,mostly_scanned_with_some_text,2272,5,524,安徽,,府州县区市志,187
+安徽省 绩溪县志.pdf,34.36,.pdf,PyMuPDF,ok,1156,scanned_image_pdf_no_text_layer,0,0,1156,安徽,,府州县区市志,2
+安徽省 肥东县志.pdf,20.5,.pdf,PyMuPDF,ok,740,scanned_image_pdf_no_text_layer,0,0,740,安徽,,府州县区市志,728
+安徽省 舒城县志.pdf,22.08,.pdf,PyMuPDF,ok,732,mostly_scanned_with_some_text,11280,21,711,安徽,,府州县区市志,756
+安徽省 蒙城县志.pdf,16.16,.pdf,PyMuPDF,ok,579,mostly_scanned_with_some_text,2923,8,571,安徽,,府州县区市志,240
+安徽省 金寨县志.pdf,28.88,.pdf,PyMuPDF,ok,858,scanned_image_pdf_no_text_layer,0,0,857,安徽,,府州县区市志,642
+安徽省 长丰县志.pdf,47.67,.pdf,PyMuPDF,ok,770,searchable_text_pdf,532208,698,307,安徽,,府州县区市志,96
+安徽省 阜南县志.pdf,27.13,.pdf,PyMuPDF,ok,542,searchable_text_pdf,450005,532,540,安徽,,府州县区市志,0
+安徽省 青阳县志.pdf,18.49,.pdf,PyMuPDF,ok,648,mostly_scanned_with_some_text,2138,5,643,安徽,,府州县区市志,176
+安徽省 黟县志.pdf,21.07,.pdf,PyMuPDF,ok,667,scanned_image_pdf_no_text_layer,0,0,667,安徽,,府州县区市志,4
+安徽省志·军事志.pdf,26.55,.pdf,PyMuPDF,ok,871,mostly_scanned_with_some_text,63,1,870,安徽,,省志/通志|军事公安审判,0
+安徽省志·建材工业志.pdf,19.59,.pdf,PyMuPDF,ok,462,mostly_scanned_with_some_text,83,2,460,安徽,,省志/通志|产业行业志,6
+安徽省志·总目录.pdf,5.33,.pdf,PyMuPDF,ok,322,scanned_image_pdf_no_text_layer,0,0,321,安徽,,省志/通志|方志目录研究,0
+安徽省志·文物志.pdf,27.74,.pdf,PyMuPDF,ok,917,scanned_image_pdf_no_text_layer,0,0,916,安徽,,省志/通志|文化教育文物,0
+安徽省志·方言志.pdf,9.22,.pdf,PyMuPDF,ok,622,mostly_scanned_with_some_text,1804,3,619,安徽,,省志/通志|方言民俗风土,98
+安徽省志·档案志.pdf,8.27,.pdf,PyMuPDF,ok,304,scanned_image_pdf_no_text_layer,0,0,304,安徽,,省志/通志,0
+安徽省志·纺织工业志.pdf,14.23,.pdf,PyMuPDF,ok,386,mostly_scanned_with_some_text,83,2,384,安徽,,省志/通志|产业行业志,6
+安徽省志·自然环境志.pdf,14.71,.pdf,PyMuPDF,ok,517,mostly_scanned_with_some_text,83,2,515,安徽,,省志/通志,6
+宋平江城坊考.pdf,15.5,.pdf,PyMuPDF,ok,424,mostly_scanned_with_some_text,20,1,423,江苏,宋,地方文献/杂志类,6
+宝华山志.pdf,20.8,.pdf,PyMuPDF,ok,656,scanned_image_pdf_no_text_layer,0,0,656,江苏,,山水寺观志,0
+宣统太仓州镇洋县志.pdf,23.41,.pdf,PyMuPDF,ok,551,mostly_scanned_with_some_text,76,1,550,江苏,宣统,府州县区市志,550
+寒山寺志.pdf,6.71,.pdf,PyMuPDF,ok,224,scanned_image_pdf_no_text_layer,0,0,224,江苏,,山水寺观志,4
+寒山寺志（校补本）.pdf,7.42,.pdf,PyMuPDF,ok,198,scanned_image_pdf_no_text_layer,0,0,198,江苏,,山水寺观志,0
+尧峰山志.pdf,4.06,.pdf,PyMuPDF,ok,323,scanned_image_pdf_no_text_layer,0,0,323,未判定/综合,,山水寺观志,5
+屯溪市志.pdf,13.32,.pdf,PyMuPDF,ok,489,scanned_image_pdf_no_text_layer,0,0,488,安徽,,府州县区市志,0
+岳西卫生志.pdf,13.22,.pdf,PyMuPDF,ok,406,searchable_text_pdf,310484,406,9,安徽,,地方文献/杂志类,35
+川沙厅志（第一册）.pdf,23.52,.pdf,PyMuPDF,ok,67,scanned_image_pdf_no_text_layer,0,0,67,上海,,府州县区市志,0
+川沙厅志（第三册）.pdf,22.08,.pdf,PyMuPDF,ok,63,scanned_image_pdf_no_text_layer,0,0,63,上海,,府州县区市志,0
+川沙厅志（第二册）.pdf,34.91,.pdf,PyMuPDF,ok,88,scanned_image_pdf_no_text_layer,0,0,88,上海,,府州县区市志,0
+川沙厅志（第五册）.pdf,23.72,.pdf,PyMuPDF,ok,68,scanned_image_pdf_no_text_layer,0,0,68,上海,,府州县区市志,0
+川沙厅志（第六册）.pdf,21.32,.pdf,PyMuPDF,ok,59,scanned_image_pdf_no_text_layer,0,0,59,上海,,府州县区市志,0
+川沙厅志（第四册）.pdf,18.56,.pdf,PyMuPDF,ok,56,scanned_image_pdf_no_text_layer,0,0,56,上海,,府州县区市志,0
+巢湖地区简志.pdf,18.41,.pdf,PyMuPDF,ok,603,mostly_scanned_with_some_text,6498,13,590,安徽,,地方文献/杂志类,458
+常熟文献志（卷五）.pdf,15.47,.pdf,PyMuPDF,ok,141,scanned_image_pdf_no_text_layer,0,0,140,江苏,,地方文献/杂志类,0
+常熟文献志（卷六至卷九）.pdf,12.46,.pdf,PyMuPDF,ok,131,scanned_image_pdf_no_text_layer,0,0,131,江苏,,地方文献/杂志类,0
+常熟文献志（卷十七至卷十八）.pdf,18.36,.pdf,PyMuPDF,ok,168,scanned_image_pdf_no_text_layer,0,0,167,江苏,,地方文献/杂志类,0
+常熟文献志（卷十二）.pdf,18.16,.pdf,PyMuPDF,ok,145,scanned_image_pdf_no_text_layer,0,0,144,江苏,,地方文献/杂志类,0
+常熟文献志（卷十至卷十一）.pdf,14.39,.pdf,PyMuPDF,ok,141,scanned_image_pdf_no_text_layer,0,0,140,江苏,,地方文献/杂志类,0
+常熟文献志（卷四）.pdf,17.18,.pdf,PyMuPDF,ok,155,scanned_image_pdf_no_text_layer,0,0,154,江苏,,地方文献/杂志类,0
+常熟文献志（卷首至卷三）.pdf,16.85,.pdf,PyMuPDF,ok,158,scanned_image_pdf_no_text_layer,0,0,157,江苏,,地方文献/杂志类,0
+平山堂图志.pdf,18.11,.pdf,PyMuPDF,ok,579,scanned_image_pdf_no_text_layer,0,0,579,未判定/综合,,山水寺观志,4
+广陵区志（扬州市）.pdf,26.68,.pdf,PyMuPDF,ok,916,mostly_scanned_with_some_text,89,2,914,江苏,,府州县区市志,6
+康熙休宁县志（1-3册）.pdf,28.76,.pdf,PyMuPDF,ok,1425,scanned_image_pdf_no_text_layer,0,0,1425,安徽,康熙,府州县区市志,6
+康熙含山县志 道光巢县志.pdf,15.12,.pdf,PyMuPDF,ok,496,scanned_image_pdf_no_text_layer,0,0,495,安徽,康熙|道光,府州县区市志,0
+康熙安庆府志.pdf,30.39,.pdf,PyMuPDF,ok,911,scanned_image_pdf_no_text_layer,0,0,911,安徽,康熙,府州县区市志,0
+康熙常州府志 (1).pdf,35.35,.pdf,PyMuPDF,ok,851,mostly_scanned_with_some_text,73,1,850,江苏,康熙,府州县区市志,850
+康熙常熟县志.pdf,28.44,.pdf,PyMuPDF,ok,669,mostly_scanned_with_some_text,73,1,668,江苏,康熙,府州县区市志,667
+康熙徽州府志（1-7册）-01.pdf,26.99,.pdf,PyMuPDF,ok,1117,scanned_image_pdf_no_text_layer,0,0,1117,安徽,康熙,府州县区市志,0
+康熙徽州府志（1-7册）-02.pdf,36.96,.pdf,PyMuPDF,ok,1359,scanned_image_pdf_no_text_layer,0,0,1358,安徽,康熙,府州县区市志,0
+建康古今记（全）.pdf,4.49,.pdf,PyMuPDF,ok,157,scanned_image_pdf_no_text_layer,0,0,157,江苏,,地方文献/杂志类,3
+弘治上海志（上）.pdf,15.1,.pdf,PyMuPDF,ok,133,scanned_image_pdf_no_text_layer,0,0,132,上海,弘治,地方文献/杂志类,0
+弘治上海志（下）.pdf,25.8,.pdf,PyMuPDF,ok,206,scanned_image_pdf_no_text_layer,0,0,205,上海,弘治,地方文献/杂志类,0
+弘治休宁县志.pdf,13.35,.pdf,PyMuPDF,ok,308,scanned_image_pdf_no_text_layer,0,0,308,安徽,弘治,府州县区市志,0
+弘治徽州府志.pdf,36.43,.pdf,PyMuPDF,ok,1686,scanned_image_pdf_no_text_layer,0,0,1685,安徽,弘治,府州县区市志,2
+张桥乡志.pdf,4.82,.pdf,PyMuPDF,ok,205,scanned_image_pdf_no_text_layer,0,0,205,未判定/综合,,乡镇村里志,0
+彭镇镇志.pdf,15.32,.pdf,PyMuPDF,ok,464,scanned_image_pdf_no_text_layer,0,0,464,上海,,乡镇村里志,0
+徐州市粮食志.pdf,6.73,.pdf,PyMuPDF,ok,365,scanned_image_pdf_no_text_layer,0,0,364,江苏,,产业行业志,0
+徐州方言志.pdf,4.51,.pdf,PyMuPDF,ok,369,scanned_image_pdf_no_text_layer,0,0,368,江苏,,方言民俗风土,0
+徽州地区交通志.pdf,13.3,.pdf,PyMuPDF,ok,364,scanned_image_pdf_no_text_layer,0,0,363,安徽,,省志/通志|交通运输,0
+扬州图经.pdf,8.25,.pdf,PyMuPDF,ok,228,mostly_scanned_with_some_text,20,1,227,江苏,,地方文献/杂志类,6
+扬州足征录.pdf,40.35,.pdf,PyMuPDF,ok,519,scanned_image_pdf_no_text_layer,0,0,519,江苏,,地方文献/杂志类,0
+扬州足徵录 （万历）盐城县志.pdf,29.3,.pdf,PyMuPDF,ok,454,scanned_image_pdf_no_text_layer,0,0,454,江苏,万历,府州县区市志,0
+摄山志.pdf,19.05,.pdf,PyMuPDF,ok,649,scanned_image_pdf_no_text_layer,0,0,649,江苏,,山水寺观志,4
+新安人物志.pdf,2.85,.pdf,PyMuPDF,ok,176,scanned_image_pdf_no_text_layer,0,0,176,未判定/综合,,人物传记,0
+新寺志.pdf,14.31,.pdf,PyMuPDF,ok,452,scanned_image_pdf_no_text_layer,0,0,452,上海,,山水寺观志,0
+旌德县志（1-4册）.pdf,29.9,.pdf,PyMuPDF,ok,1635,scanned_image_pdf_no_text_layer,0,0,1635,安徽,,府州县区市志,0
+无锡市志（全四册）-01.pdf,38.37,.pdf,PyMuPDF,ok,718,scanned_image_pdf_no_text_layer,0,0,718,江苏,,府州县区市志,0
+无锡市志（全四册）-02.pdf,49.98,.pdf,PyMuPDF,ok,1372,scanned_image_pdf_no_text_layer,0,0,1372,江苏,,府州县区市志,0
+无锡市志（全四册）-03.pdf,43.63,.pdf,PyMuPDF,ok,1282,mostly_scanned_with_some_text,83,2,1280,江苏,,府州县区市志,0
+明代南直隶方志研究.pdf,46.87,.pdf,PyMuPDF,ok,572,scanned_image_pdf_no_text_layer,0,0,572,跨省/综合,明代,方志目录研究,538
+明代宝应人物志.pdf,2.36,.pdf,PyMuPDF,ok,86,scanned_image_pdf_no_text_layer,0,0,86,江苏,明代,人物传记,0
+明代金陵人物志.pdf,3.44,.pdf,PyMuPDF,ok,176,scanned_image_pdf_no_text_layer,0,0,176,江苏,明代,人物传记,0
+明孝陵志.pdf,5.98,.pdf,PyMuPDF,ok,215,scanned_image_pdf_no_text_layer,0,0,215,未判定/综合,,地方文献/杂志类,0
+明孝陵志新编.pdf,12.19,.pdf,PyMuPDF,ok,298,scanned_image_pdf_no_text_layer,0,0,298,未判定/综合,,地方文献/杂志类,0
+景定建康志（1-2册）.pdf,8.09,.pdf,PyMuPDF,ok,209,scanned_image_pdf_no_text_layer,0,0,209,江苏,景定,地方文献/杂志类,4
+杏花村志.pdf,28.05,.pdf,PyMuPDF,ok,394,scanned_image_pdf_no_text_layer,0,0,394,未判定/综合,,地方文献/杂志类,0
+松江文化志.pdf,10.22,.pdf,PyMuPDF,ok,334,scanned_image_pdf_no_text_layer,0,0,334,上海,,文化教育文物,301
+松江风俗志.pdf,19.9,.pdf,PyMuPDF,ok,484,scanned_image_pdf_no_text_layer,0,0,484,上海,,方言民俗风土,0
+栖霞山志.pdf,3.82,.pdf,PyMuPDF,ok,245,scanned_image_pdf_no_text_layer,0,0,245,江苏,,山水寺观志,5
+栖霞新志.pdf,4.3,.pdf,PyMuPDF,ok,198,scanned_image_pdf_no_text_layer,0,0,198,江苏,,地方文献/杂志类,0
+桐城文化志.pdf,5.84,.pdf,PyMuPDF,ok,396,scanned_image_pdf_no_text_layer,0,0,396,安徽,,文化教育文物,390
+梅里志.pdf,17.65,.pdf,PyMuPDF,ok,237,scanned_image_pdf_no_text_layer,0,0,237,未判定/综合,,乡镇村里志,0
+橙阳散志.pdf,3.98,.pdf,PyMuPDF,ok,118,scanned_image_pdf_no_text_layer,0,0,118,未判定/综合,,地方文献/杂志类,0
+毫县志略（全）.pdf,0.63,.pdf,PyMuPDF,ok,48,scanned_image_pdf_no_text_layer,0,0,48,安徽,,府州县区市志,0
+民国全椒县志 道光来安县志.pdf,17.4,.pdf,PyMuPDF,ok,512,scanned_image_pdf_no_text_layer,0,0,511,安徽,道光|民国,府州县区市志,0
+民国南通县图志 光绪海门厅图志.pdf,19.49,.pdf,PyMuPDF,ok,770,scanned_image_pdf_no_text_layer,0,0,770,江苏,光绪|民国,地方文献/杂志类,1
+民国南陵县志.pdf,32.53,.pdf,PyMuPDF,ok,869,scanned_image_pdf_no_text_layer,0,0,869,安徽,民国,府州县区市志,0
+民国吴县志(一).pdf,39.66,.pdf,PyMuPDF,ok,1069,mostly_scanned_with_some_text,76,1,1068,江苏,民国,府州县区市志,1067
+民国吴县志(二) 民国续吴县志稿.pdf,36.91,.pdf,PyMuPDF,ok,1039,mostly_scanned_with_some_text,85,1,1038,江苏,民国,府州县区市志,1037
+民国宁国县志 嘉庆绩溪县志.pdf,24.24,.pdf,PyMuPDF,ok,791,scanned_image_pdf_no_text_layer,0,0,790,安徽,嘉庆|民国,府州县区市志,0
+民国宝应县志.pdf,24.21,.pdf,PyMuPDF,ok,520,mostly_scanned_with_some_text,73,1,519,江苏,民国,府州县区市志,518
+民国宿松县志（一）.pdf,21.97,.pdf,PyMuPDF,ok,582,scanned_image_pdf_no_text_layer,0,0,582,安徽,民国,府州县区市志,0
+民国宿松县志（二）.pdf,22.92,.pdf,PyMuPDF,ok,532,scanned_image_pdf_no_text_layer,0,0,531,安徽,民国,府州县区市志,0
+民国当涂县志（一）.pdf,19.53,.pdf,PyMuPDF,ok,617,scanned_image_pdf_no_text_layer,0,0,617,安徽,民国,府州县区市志,0
+民国当涂县志（二）.pdf,20.53,.pdf,PyMuPDF,ok,567,scanned_image_pdf_no_text_layer,0,0,566,安徽,民国,府州县区市志,0
+民国怀宁县志 民国怀宁县志补.pdf,30.47,.pdf,PyMuPDF,ok,737,scanned_image_pdf_no_text_layer,0,0,737,安徽,民国,府州县区市志,0
+民国时期南京官办银行 南京金融志资料专辑（一）.pdf,4.97,.pdf,PyMuPDF,ok,431,scanned_image_pdf_no_text_layer,0,0,431,江苏,民国,经济财政工商|方志目录研究,19
+民国歙县志.pdf,33.71,.pdf,PyMuPDF,ok,728,scanned_image_pdf_no_text_layer,0,0,728,安徽,民国,府州县区市志,0
+民国江阴县续志.pdf,21.59,.pdf,PyMuPDF,ok,515,mostly_scanned_with_some_text,74,1,514,江苏,民国,地方文献/杂志类,513
+民国沛县志 咸丰邳州志 民国邳志补.pdf,31.45,.pdf,PyMuPDF,ok,737,mostly_scanned_with_some_text,86,1,736,江苏,咸丰|民国,府州县区市志,736
+民国泰县志稿.pdf,22.53,.pdf,PyMuPDF,ok,826,mostly_scanned_with_some_text,73,1,825,江苏,民国,府州县区市志,825
+民国潜山县志.pdf,19.41,.pdf,PyMuPDF,ok,503,scanned_image_pdf_no_text_layer,0,0,503,未判定/综合,民国,府州县区市志,0
+民国石埭备志汇编 宣统建德县志.pdf,22.14,.pdf,PyMuPDF,ok,589,scanned_image_pdf_no_text_layer,0,0,589,安徽,宣统|民国,府州县区市志,0
+民国续纂山阳县志.pdf,41.38,.pdf,PyMuPDF,ok,259,scanned_image_pdf_no_text_layer,0,0,259,江苏,民国,府州县区市志,0
+民国芜湖县志 雍正建平县志.pdf,21.51,.pdf,PyMuPDF,ok,597,scanned_image_pdf_no_text_layer,0,0,597,安徽,雍正|民国,府州县区市志,0
+民国重修金坛县志 光绪溧水县志.pdf,27.82,.pdf,PyMuPDF,ok,631,mostly_scanned_with_some_text,83,1,630,江苏,光绪|民国,府州县区市志,630
+民国铜山县志.pdf,25.71,.pdf,PyMuPDF,ok,594,mostly_scanned_with_some_text,73,1,593,江苏,民国,府州县区市志,593
+民国镇洋县志 雍正昭文县志 乾隆吴江县志(一).pdf,20.98,.pdf,PyMuPDF,ok,453,mostly_scanned_with_some_text,94,1,452,江苏,雍正|乾隆|民国,府州县区市志,452
+民国高淳县志 乾隆句容县志.pdf,40.77,.pdf,PyMuPDF,ok,817,mostly_scanned_with_some_text,81,1,816,江苏,乾隆|民国,府州县区市志,816
+民国黟县四志.pdf,20.98,.pdf,PyMuPDF,ok,530,scanned_image_pdf_no_text_layer,0,0,530,安徽,民国,地方文献/杂志类,0
+江南通志（卷一至卷六）.pdf,44.26,.pdf,PyMuPDF,ok,274,scanned_image_pdf_no_text_layer,0,0,274,跨省/综合,,省志/通志,0
+江南通志（卷七十三至卷七十六）.pdf,28.72,.pdf,PyMuPDF,ok,142,scanned_image_pdf_no_text_layer,0,0,142,跨省/综合,,省志/通志,0
+江南通志（卷七至卷十三）.pdf,40.43,.pdf,PyMuPDF,ok,214,scanned_image_pdf_no_text_layer,0,0,214,跨省/综合,,省志/通志,0
+江南通志（卷三十、卷三十一）.pdf,38.98,.pdf,PyMuPDF,ok,249,scanned_image_pdf_no_text_layer,0,0,249,跨省/综合,,省志/通志,0
+江南通志（卷三十七至卷四十一）.pdf,36.27,.pdf,PyMuPDF,ok,176,scanned_image_pdf_no_text_layer,0,0,176,跨省/综合,,省志/通志,0
+江南通志（卷三十二至卷三十六）.pdf,43.38,.pdf,PyMuPDF,ok,231,scanned_image_pdf_no_text_layer,0,0,231,跨省/综合,,省志/通志,0
+江南通志（卷二十六至卷二十九）.pdf,37.19,.pdf,PyMuPDF,ok,232,scanned_image_pdf_no_text_layer,0,0,232,跨省/综合,,省志/通志,0
+江南通志（卷五十五至卷六十一）.pdf,46.87,.pdf,PyMuPDF,ok,236,scanned_image_pdf_no_text_layer,0,0,236,跨省/综合,,省志/通志,0
+江南通志（卷五十至卷五十四）.pdf,48.11,.pdf,PyMuPDF,ok,232,scanned_image_pdf_no_text_layer,0,0,232,跨省/综合,,省志/通志,0
+江南通志（卷六十二、卷六十三）.pdf,28.13,.pdf,PyMuPDF,ok,145,scanned_image_pdf_no_text_layer,0,0,145,跨省/综合,,省志/通志,0
+江南通志（卷六十八至卷七十二）.pdf,41.96,.pdf,PyMuPDF,ok,207,scanned_image_pdf_no_text_layer,0,0,207,跨省/综合,,省志/通志,0
+江南通志（卷六十四至卷六十七）.pdf,33.52,.pdf,PyMuPDF,ok,173,scanned_image_pdf_no_text_layer,0,0,173,跨省/综合,,省志/通志,0
+江南通志（卷十九至卷二十五）.pdf,37.27,.pdf,PyMuPDF,ok,209,scanned_image_pdf_no_text_layer,0,0,209,跨省/综合,,省志/通志,0
+江南通志（卷十四至卷十八）.pdf,49.76,.pdf,PyMuPDF,ok,264,scanned_image_pdf_no_text_layer,0,0,264,跨省/综合,,省志/通志,0
+江南通志（卷四十二至卷四十四）.pdf,40.43,.pdf,PyMuPDF,ok,189,scanned_image_pdf_no_text_layer,0,0,189,跨省/综合,,省志/通志,0
+江南通志（卷四十五至卷四十九）.pdf,39.2,.pdf,PyMuPDF,ok,185,scanned_image_pdf_no_text_layer,0,0,185,跨省/综合,,省志/通志,0
+江苏六十一县志.pdf,4.32,.pdf,PyMuPDF,ok,304,scanned_image_pdf_no_text_layer,0,0,303,跨省/综合,,府州县区市志,0
+江苏当代方志论文选.pdf,18.08,.pdf,PyMuPDF,ok,782,scanned_image_pdf_no_text_layer,0,0,782,跨省/综合,当代,方志目录研究,0
+江苏方志考.pdf,5.02,.pdf,PyMuPDF,ok,184,scanned_image_pdf_no_text_layer,0,0,184,跨省/综合,,地方文献/杂志类,64
+江苏旧方志提要.doc,1.58,.doc,binary_decode_heuristic+file_metadata,ok,,,44338,,,跨省/综合,,方志目录研究,
+江苏省 吴县志（一）.pdf,42.75,.pdf,PyMuPDF,ok,605,scanned_image_pdf_no_text_layer,0,0,605,江苏,,府州县区市志,0
+江苏省 吴县志（二）.pdf,32.41,.pdf,PyMuPDF,ok,723,mostly_scanned_with_some_text,95,2,721,江苏,,府州县区市志,0
+江苏省 大丰县志.pdf,18.36,.pdf,PyMuPDF,ok,841,mostly_scanned_with_some_text,76,2,839,江苏,,府州县区市志,6
+江苏省 如东县志.pdf,26.18,.pdf,PyMuPDF,ok,488,mostly_scanned_with_some_text,3026,5,483,江苏,,府州县区市志,192
+江苏省 无锡县志.pdf,24.02,.pdf,PyMuPDF,ok,1199,scanned_image_pdf_no_text_layer,0,0,1114,江苏,,府州县区市志,1145
+江苏省 海安县志.pdf,72.2,.pdf,PyMuPDF,ok,1083,searchable_text_pdf,1292455,1080,1083,江苏,,府州县区市志,1025
+江苏省 高淳县志.pdf,25.63,.pdf,PyMuPDF,ok,907,mostly_scanned_with_some_text,76,2,905,江苏,,府州县区市志,6
+江苏省交通志·公路篇(1978-2008) 道路运输（草.doc,1.52,.doc,binary_decode_heuristic+file_metadata,ok,,,34334,,,江苏,1978|2008,省志/通志|交通运输,
+江苏省志 文物志.pdf.baiduyun.p.downloading,48.48,.pdf.baiduyun.p.downloading,PyMuPDF,ok,815,scanned_image_pdf_no_text_layer,0,0,793,江苏,,省志/通志|文化教育文物,815
+江苏省志·交通志·民航篇.pdf,4.97,.pdf,PyMuPDF,ok,151,scanned_image_pdf_no_text_layer,0,0,150,江苏,,省志/通志|交通运输,0
+江苏省志·供销合作社志.pdf,21.83,.pdf,PyMuPDF,ok,630,scanned_image_pdf_no_text_layer,0,0,629,江苏,,省志/通志|经济财政工商,0
+江苏省志·军事志.pdf,27.04,.pdf,PyMuPDF,ok,1348,scanned_image_pdf_no_text_layer,0,0,1348,江苏,,省志/通志|军事公安审判,234
+江苏省志·农机具志.pdf,34.4,.pdf,PyMuPDF,ok,485,scanned_image_pdf_no_text_layer,0,0,484,江苏,,省志/通志|产业行业志,0
+江苏省志·冶金工业志.pdf,15.22,.pdf,PyMuPDF,ok,479,scanned_image_pdf_no_text_layer,0,0,478,江苏,,省志/通志|产业行业志,0
+江苏省志·出版志.pdf,5.12,.pdf,PyMuPDF,ok,70,scanned_image_pdf_no_text_layer,0,0,69,江苏,,省志/通志|产业行业志,0
+江苏省志·地震事业志.pdf,8.07,.pdf,PyMuPDF,ok,300,scanned_image_pdf_no_text_layer,0,0,299,江苏,,省志/通志,0
+江苏省志·审判志.pdf,11.21,.pdf,PyMuPDF,ok,389,scanned_image_pdf_no_text_layer,0,0,388,江苏,,省志/通志|军事公安审判,0
+江苏省志·对外经济贸易志.pdf,16.35,.pdf,PyMuPDF,ok,515,scanned_image_pdf_no_text_layer,0,0,514,江苏,,省志/通志|经济财政工商,0
+江苏省志·工商行政管理志.pdf,11.61,.pdf,PyMuPDF,ok,396,scanned_image_pdf_no_text_layer,0,0,395,江苏,,省志/通志|经济财政工商,0
+江苏省志·报业志.pdf,26.53,.pdf,PyMuPDF,ok,568,scanned_image_pdf_no_text_layer,0,0,567,江苏,,省志/通志|产业行业志,0
+江苏省志·教育志（上、下册）.pdf,33.57,.pdf,PyMuPDF,ok,746,scanned_image_pdf_no_text_layer,0,0,745,江苏,,省志/通志|文化教育文物,0
+江苏省志·方言志.pdf,16.8,.pdf,PyMuPDF,ok,764,scanned_image_pdf_no_text_layer,0,0,764,江苏,,省志/通志|方言民俗风土,0
+江苏省志·旅游业志.pdf,18.73,.pdf,PyMuPDF,ok,548,scanned_image_pdf_no_text_layer,0,0,547,江苏,,省志/通志|产业行业志,0
+江苏省志·档案志.pdf,17.79,.pdf,PyMuPDF,ok,403,scanned_image_pdf_no_text_layer,0,0,402,江苏,,省志/通志,0
+江苏省志·气象事业志.pdf,11.4,.pdf,PyMuPDF,ok,404,scanned_image_pdf_no_text_layer,0,0,403,江苏,,省志/通志,0
+江苏省志·海关志.pdf,12.54,.pdf,PyMuPDF,ok,461,scanned_image_pdf_no_text_layer,0,0,460,江苏,,省志/通志|经济财政工商,0
+江苏省志·海涂开发志.pdf,10.59,.pdf,PyMuPDF,ok,338,scanned_image_pdf_no_text_layer,0,0,337,江苏,,省志/通志,0
+江苏省志·盐业志.pdf,11.28,.pdf,PyMuPDF,ok,389,scanned_image_pdf_no_text_layer,0,0,388,江苏,,省志/通志|产业行业志,0
+江苏省志·社会科学志.pdf,19.15,.pdf,PyMuPDF,ok,674,scanned_image_pdf_no_text_layer,0,0,673,江苏,,省志/通志|文化教育文物,0
+江苏省志·税务志.pdf,21.18,.pdf,PyMuPDF,ok,768,scanned_image_pdf_no_text_layer,0,0,767,江苏,,省志/通志|经济财政工商,0
+江苏省志·粮食志.pdf,15.51,.pdf,PyMuPDF,ok,519,scanned_image_pdf_no_text_layer,0,0,518,江苏,,省志/通志|产业行业志,0
+江苏省志·财政志（上、下册）.pdf,15.39,.pdf,PyMuPDF,ok,522,scanned_image_pdf_no_text_layer,0,0,521,江苏,,省志/通志|经济财政工商,0
+江苏省志·轻工业志.pdf,19.33,.pdf,PyMuPDF,ok,614,scanned_image_pdf_no_text_layer,0,0,613,江苏,,省志/通志|产业行业志,0
+江苏省志·陶瓷工业志.pdf,14.61,.pdf,PyMuPDF,ok,411,scanned_image_pdf_no_text_layer,0,0,410,江苏,,省志/通志|产业行业志,0
+江苏省通志稿 01 大事志.pdf,31.28,.pdf,PyMuPDF,ok,815,scanned_image_pdf_no_text_layer,0,0,814,江苏,,省志/通志,0
+江苏省通志稿 02 方域志·都水志·建置志.pdf,24.85,.pdf,PyMuPDF,ok,738,scanned_image_pdf_no_text_layer,0,0,737,江苏,,省志/通志,4
+江苏省通志稿 05 选举志.pdf,17.42,.pdf,PyMuPDF,ok,712,scanned_image_pdf_no_text_layer,0,0,711,江苏,,省志/通志,0
+江苏省通志稿 灾异志.pdf,16.16,.pdf,PyMuPDF,ok,182,scanned_image_pdf_no_text_layer,0,0,182,江苏,,省志/通志,0
+江阴市志（一）.pdf,33.05,.pdf,PyMuPDF,ok,889,scanned_image_pdf_no_text_layer,0,0,889,江苏,,府州县区市志,0
+江阴市志（二）.pdf,22.32,.pdf,PyMuPDF,ok,582,scanned_image_pdf_no_text_layer,0,0,581,江苏,,府州县区市志,0
+泰县方言志.pdf,3.74,.pdf,PyMuPDF,ok,260,scanned_image_pdf_no_text_layer,0,0,260,江苏,,方言民俗风土,0
+泰州方志考略.pdf,0.97,.pdf,PyMuPDF,ok,13,searchable_text_pdf,16193,13,13,跨省/综合,,方志目录研究,0
+泰州旧事摭拾.pdf,8.78,.pdf,PyMuPDF,ok,308,mostly_scanned_with_some_text,20,1,307,江苏,,地方文献/杂志类,6
+洋泾乡志.pdf,21.85,.pdf,PyMuPDF,ok,456,scanned_image_pdf_no_text_layer,0,0,456,上海,,乡镇村里志,0
+海州直隶州志（一、二册）.pdf,17.71,.pdf,PyMuPDF,ok,459,scanned_image_pdf_no_text_layer,0,0,453,江苏,,府州县区市志,6
+涡阳风土记（一）.pdf,9.02,.pdf,PyMuPDF,ok,368,scanned_image_pdf_no_text_layer,0,0,368,安徽,,方言民俗风土,0
+淮关统志（全）.pdf,10.89,.pdf,PyMuPDF,ok,321,scanned_image_pdf_no_text_layer,0,0,321,未判定/综合,,地方文献/杂志类,0
+淳熙新安志（一）.pdf,38.16,.pdf,PyMuPDF,ok,100,scanned_image_pdf_no_text_layer,0,0,100,未判定/综合,淳熙,地方文献/杂志类,0
+淳熙新安志（二）.pdf,31.05,.pdf,PyMuPDF,ok,82,scanned_image_pdf_no_text_layer,0,0,82,未判定/综合,淳熙,地方文献/杂志类,0
+清嘉录.pdf,8.53,.pdf,PyMuPDF,ok,291,mostly_scanned_with_some_text,20,1,290,未判定/综合,清,方言民俗风土,6
+清月浦志·民国月浦里志·清杨行志·民国杨行乡.pdf,48.92,.pdf,PyMuPDF,ok,883,scanned_image_pdf_no_text_layer,0,0,882,上海,民国|清,乡镇村里志,0
+灵岩志略.pdf,0.53,.pdf,PyMuPDF,ok,43,scanned_image_pdf_no_text_layer,0,0,43,未判定/综合,,山水寺观志,4
+灵岩记略.pdf,1.93,.pdf,PyMuPDF,ok,122,scanned_image_pdf_no_text_layer,0,0,122,未判定/综合,,地方文献/杂志类,4
+焦山志（二十六卷）.pdf,40.3,.pdf,PyMuPDF,ok,1314,scanned_image_pdf_no_text_layer,0,0,1314,未判定/综合,,山水寺观志,0
+牛首山志.pdf,3.64,.pdf,PyMuPDF,ok,222,scanned_image_pdf_no_text_layer,0,0,222,江苏,,山水寺观志,3
+献花岩志.pdf,1.1,.pdf,PyMuPDF,ok,88,scanned_image_pdf_no_text_layer,0,0,88,未判定/综合,,山水寺观志,3
+琴川志 景定建康志（一）.pdf,44.92,.pdf,PyMuPDF,ok,539,scanned_image_pdf_no_text_layer,0,0,539,江苏,景定,地方文献/杂志类,0
+琴川志 景定建康志（二）.pdf,44.65,.pdf,PyMuPDF,ok,495,scanned_image_pdf_no_text_layer,0,0,495,江苏,景定,地方文献/杂志类,0
+甘棠小志.pdf,8.44,.pdf,PyMuPDF,ok,108,scanned_image_pdf_no_text_layer,0,0,108,未判定/综合,,乡镇村里志,0
+皖志列传稿（一、二册）.pdf,22.19,.pdf,PyMuPDF,ok,743,scanned_image_pdf_no_text_layer,0,0,743,安徽,,人物传记,0
+盋山志（八卷）.pdf,9.43,.pdf,PyMuPDF,ok,320,scanned_image_pdf_no_text_layer,0,0,320,未判定/综合,,山水寺观志,0
+盐城县志.pdf,8.98,.pdf,PyMuPDF,ok,494,scanned_image_pdf_no_text_layer,0,0,494,江苏,,府州县区市志,3
+盐城市志·方言.pdf,2.09,.pdf,PyMuPDF,ok,49,scanned_image_pdf_no_text_layer,0,0,49,江苏,,府州县区市志|方言民俗风土,0
+盛泽镇志.pdf,29.79,.pdf,PyMuPDF,ok,176,searchable_text_pdf,231443,167,175,江苏,,乡镇村里志,0
+祁门县工商行政管理志.pdf,8.03,.pdf,PyMuPDF,ok,276,scanned_image_pdf_no_text_layer,0,0,276,安徽,,经济财政工商,0
+绩溪县教育志.pdf,18.88,.pdf,PyMuPDF,ok,453,mostly_scanned_with_some_text,68,2,451,安徽,,文化教育文物,5
+续纂山阳县志（全）.pdf,20.9,.pdf,PyMuPDF,ok,543,scanned_image_pdf_no_text_layer,0,0,543,江苏,,府州县区市志,4
+续金山志.pdf,3.93,.pdf,PyMuPDF,ok,152,scanned_image_pdf_no_text_layer,0,0,152,上海,,山水寺观志,3
+至顺镇江志（上、下册）.pdf,6.6,.pdf,PyMuPDF,ok,645,scanned_image_pdf_no_text_layer,0,0,645,江苏,至顺,地方文献/杂志类,6
+芜城怀旧录 扬州风土记略.pdf,18.46,.pdf,PyMuPDF,ok,325,scanned_image_pdf_no_text_layer,0,0,325,江苏,,方言民俗风土,0
+苏州史志笔记.pdf,4.63,.pdf,PyMuPDF,ok,237,searchable_text_pdf,10920,237,237,江苏,,地方文献/杂志类,0
+苏州对外经济志（1896年-1990年）.pdf,3.33,.pdf,PyMuPDF,ok,187,scanned_image_pdf_no_text_layer,0,0,187,江苏,1990,经济财政工商,0
+苏州市志 第一册.rar,49.28,.rar,bsdtar+PyMuPDF,ok,,,,,,江苏,,府州县区市志,
+苏州市志 第三册.pdf,31.62,.pdf,PyMuPDF,ok,1259,mostly_scanned_with_some_text,62,2,1257,江苏,,府州县区市志,3
+苏州市志 第二册.pdf,27.79,.pdf,PyMuPDF,ok,1120,mostly_scanned_with_some_text,62,2,1118,江苏,,府州县区市志,3
+苏州市方言志.pdf,7.09,.pdf,PyMuPDF,ok,61,scanned_image_pdf_no_text_layer,0,0,61,江苏,,方言民俗风土,61
+苏州市金阊区志.doc,8.48,.doc,binary_decode_heuristic+file_metadata,ok,,,24869,,,江苏,,府州县区市志,
+苏州府志.pdf,1.98,.pdf,PyMuPDF,ok,97,scanned_image_pdf_no_text_layer,0,0,96,江苏,,府州县区市志,0
+苏州方言志.pdf,13.0,.pdf,PyMuPDF,ok,457,scanned_image_pdf_no_text_layer,0,0,457,江苏,,方言民俗风土,0
+苏州洋关史料.pdf,6.54,.pdf,PyMuPDF,ok,429,scanned_image_pdf_no_text_layer,0,0,429,江苏,,地方文献/杂志类,0
+苏州电力工业志（1897-1996） 概述、发电.pdf,2.37,.pdf,PyMuPDF,ok,69,scanned_image_pdf_no_text_layer,0,0,69,江苏,1996,产业行业志,0
+茅山志.pdf,14.13,.pdf,PyMuPDF,ok,144,scanned_image_pdf_no_text_layer,0,0,144,江苏,,山水寺观志,0
+莫愁湖志.卷首.1-6.马士图辑.光绪年刊.pdf,60.73,.卷首.1-6.马士图辑.光绪年刊.pdf,PyMuPDF,ok,111,scanned_image_pdf_no_text_layer,0,0,111,江苏,光绪,山水寺观志,0
+蒲溪小志.pdf,2.91,.pdf,PyMuPDF,ok,153,scanned_image_pdf_no_text_layer,0,0,152,上海,,乡镇村里志,0
+虎邱山志（二十四卷）.pdf,25.61,.pdf,PyMuPDF,ok,924,scanned_image_pdf_no_text_layer,0,0,924,江苏,,山水寺观志,0
+蚌埠市志.pdf,45.11,.pdf,PyMuPDF,ok,1368,mostly_scanned_with_some_text,77,2,1366,安徽,,府州县区市志,6
+赣榆县志（一、二册）.pdf,13.56,.pdf,PyMuPDF,ok,592,mostly_scanned_with_some_text,65,2,590,江苏,,府州县区市志,3
+近代上海地区方志经济史料选辑（1840—1949）.pdf,6.9,.pdf,PyMuPDF,ok,404,mostly_scanned_with_some_text,925,3,401,上海,,经济财政工商,59
+连云港市志·文化志.pdf,15.33,.pdf,PyMuPDF,ok,116,scanned_image_pdf_no_text_layer,0,0,115,江苏,,府州县区市志|文化教育文物,0
+道光上元县志.pdf,37.03,.pdf,PyMuPDF,ok,577,scanned_image_pdf_no_text_layer,0,0,577,江苏,道光|元,府州县区市志,4
+道光休宁县志.pdf,27.97,.pdf,PyMuPDF,ok,687,scanned_image_pdf_no_text_layer,0,0,687,安徽,道光,府州县区市志,0
+道光定远县志 光绪凤阳县志.pdf,19.61,.pdf,PyMuPDF,ok,566,scanned_image_pdf_no_text_layer,0,0,565,安徽,道光|光绪,府州县区市志,0
+道光徽州府志（一）.pdf,24.34,.pdf,PyMuPDF,ok,585,scanned_image_pdf_no_text_layer,0,0,585,安徽,道光,府州县区市志,0
+道光徽州府志（三） 徽州府志辨证 徽志补正.pdf,27.56,.pdf,PyMuPDF,ok,608,scanned_image_pdf_no_text_layer,0,0,608,安徽,道光,府州县区市志,0
+道光徽州府志（二）.pdf,26.27,.pdf,PyMuPDF,ok,561,scanned_image_pdf_no_text_layer,0,0,561,安徽,道光,府州县区市志,0
+道光昆新两县志.pdf,29.46,.pdf,PyMuPDF,ok,672,mostly_scanned_with_some_text,74,1,671,未判定/综合,道光,府州县区市志,670
+道光歙县志（一）.pdf,28.14,.pdf,PyMuPDF,ok,1170,scanned_image_pdf_no_text_layer,0,0,1170,安徽,道光,府州县区市志,1
+道光歙县志（二）.pdf,40.47,.pdf,PyMuPDF,ok,1529,scanned_image_pdf_no_text_layer,0,0,1529,安徽,道光,府州县区市志,1
+道光泰州志 泰州新志刊谬 民国续纂泰州志.pdf,29.52,.pdf,PyMuPDF,ok,879,mostly_scanned_with_some_text,89,1,878,江苏,道光|民国,府州县区市志,878
+道光繁昌县志 乾隆铜陵县志.pdf,14.89,.pdf,PyMuPDF,ok,478,scanned_image_pdf_no_text_layer,0,0,478,安徽,乾隆|道光,府州县区市志,0
+道光重修仪徵县志.pdf,33.86,.pdf,PyMuPDF,ok,756,mostly_scanned_with_some_text,75,1,755,江苏,道光,府州县区市志,754
+道光阜阳县志 民国阜阳县志续编.pdf,23.65,.pdf,PyMuPDF,ok,653,scanned_image_pdf_no_text_layer,0,0,653,安徽,道光|民国,府州县区市志,0
+重刊荆溪县志（全）.pdf,7.88,.pdf,PyMuPDF,ok,422,scanned_image_pdf_no_text_layer,0,0,422,江苏,,府州县区市志,3
+金山县志（一、二册）.pdf,16.01,.pdf,PyMuPDF,ok,883,mostly_scanned_with_some_text,71,1,882,上海,,府州县区市志,881
+金山志（十卷）.pdf,15.48,.pdf,PyMuPDF,ok,560,scanned_image_pdf_no_text_layer,0,0,560,上海,,山水寺观志,0
+金陵古今图考（上卷）.pdf,10.11,.pdf,PyMuPDF,ok,29,scanned_image_pdf_no_text_layer,0,0,29,江苏,,地方文献/杂志类,0
+金陵古今图考（下卷）.pdf,13.31,.pdf,PyMuPDF,ok,33,scanned_image_pdf_no_text_layer,0,0,33,江苏,,地方文献/杂志类,0
+金陵图咏（全）.pdf,4.82,.pdf,PyMuPDF,ok,228,scanned_image_pdf_no_text_layer,0,0,228,江苏,,地方文献/杂志类,3
+金陵待征录（全）.pdf,4.47,.pdf,PyMuPDF,ok,179,scanned_image_pdf_no_text_layer,0,0,179,江苏,,地方文献/杂志类,3
+金陵琐事·续金陵琐事·二续金陵琐事.pdf,5.63,.pdf,PyMuPDF,ok,378,scanned_image_pdf_no_text_layer,0,0,377,江苏,,地方文献/杂志类,0
+金陵琐事（一、二、三册）.pdf,19.09,.pdf,PyMuPDF,ok,1210,scanned_image_pdf_no_text_layer,0,0,1210,江苏,,地方文献/杂志类,3
+金陵琐志九种（上册）.pdf,16.81,.pdf,PyMuPDF,ok,303,scanned_image_pdf_no_text_layer,0,0,303,江苏,,地方文献/杂志类,0
+金陵胜迹志.pdf,8.19,.pdf,PyMuPDF,ok,113,scanned_image_pdf_no_text_layer,0,0,113,江苏,,地方文献/杂志类,0
+铜陵县志（一、二册）.pdf,9.1,.pdf,PyMuPDF,ok,602,scanned_image_pdf_no_text_layer,0,0,602,安徽,,府州县区市志,0
+铜陵市志.pdf,48.27,.pdf,PyMuPDF,ok,1169,mostly_scanned_with_some_text,77,2,1167,安徽,,府州县区市志,6
+镇江市志（上、下册）-01.pdf,48.22,.pdf,PyMuPDF,ok,891,scanned_image_pdf_no_text_layer,0,0,891,江苏,,府州县区市志,0
+镇江市志（上、下册）-02.pdf,31.2,.pdf,PyMuPDF,ok,916,mostly_scanned_with_some_text,83,2,914,江苏,,府州县区市志,0
+阜宁县土壤志.pdf,33.5,.pdf,PyMuPDF,ok,215,searchable_text_pdf,70795,204,117,江苏,,产业行业志,23
+阜阳市志.pdf,40.57,.pdf,PyMuPDF,ok,587,mostly_scanned_with_some_text,6590,11,576,安徽,,府州县区市志,0
+陇西志.pdf,15.02,.pdf,PyMuPDF,ok,508,scanned_image_pdf_no_text_layer,0,0,507,未判定/综合,,地方文献/杂志类,0
+青浦县志（一）.pdf,34.07,.pdf,PyMuPDF,ok,102,scanned_image_pdf_no_text_layer,0,0,102,上海,,府州县区市志,0
+青浦县志（七）-1.pdf,29.17,.pdf,PyMuPDF,ok,63,scanned_image_pdf_no_text_layer,0,0,63,上海,,府州县区市志,0
+青浦县志（七）-2.pdf,25.76,.pdf,PyMuPDF,ok,55,scanned_image_pdf_no_text_layer,0,0,55,上海,,府州县区市志,0
+青浦县志（三）.pdf,42.44,.pdf,PyMuPDF,ok,95,scanned_image_pdf_no_text_layer,0,0,95,上海,,府州县区市志,0
+青浦县志（九）.pdf,26.86,.pdf,PyMuPDF,ok,64,scanned_image_pdf_no_text_layer,0,0,64,上海,,府州县区市志,0
+青浦县志（二）.pdf,36.8,.pdf,PyMuPDF,ok,88,scanned_image_pdf_no_text_layer,0,0,88,上海,,府州县区市志,0
+青浦县志（五）.pdf,44.76,.pdf,PyMuPDF,ok,102,scanned_image_pdf_no_text_layer,0,0,102,上海,,府州县区市志,0
+青浦县志（八）.pdf,38.96,.pdf,PyMuPDF,ok,93,scanned_image_pdf_no_text_layer,0,0,93,上海,,府州县区市志,0
+青浦县志（六）.pdf,38.84,.pdf,PyMuPDF,ok,113,scanned_image_pdf_no_text_layer,0,0,113,上海,,府州县区市志,0
+青浦县志（十一）-1.pdf,28.19,.pdf,PyMuPDF,ok,61,scanned_image_pdf_no_text_layer,0,0,61,上海,,府州县区市志,0
+青浦县志（十一）-2.pdf,27.87,.pdf,PyMuPDF,ok,60,scanned_image_pdf_no_text_layer,0,0,60,上海,,府州县区市志,0
+青浦县志（十二）-1.pdf,35.25,.pdf,PyMuPDF,ok,77,scanned_image_pdf_no_text_layer,0,0,77,上海,,府州县区市志,0
+青浦县志（十二）-2.pdf,36.69,.pdf,PyMuPDF,ok,78,scanned_image_pdf_no_text_layer,0,0,78,上海,,府州县区市志,0
+青浦县志（十）.pdf,41.96,.pdf,PyMuPDF,ok,117,scanned_image_pdf_no_text_layer,0,0,117,上海,,府州县区市志,0
+青浦县志（四）.pdf,38.68,.pdf,PyMuPDF,ok,89,scanned_image_pdf_no_text_layer,0,0,89,上海,,府州县区市志,0
+马鞍山市志.pdf,38.7,.pdf,PyMuPDF,ok,1085,mostly_scanned_with_some_text,78,2,1083,安徽,,府州县区市志,6
+黄山市志.pdf,23.64,.pdf,PyMuPDF,ok,890,scanned_image_pdf_no_text_layer,0,0,890,安徽,,府州县区市志,0
+黄山志.pdf,16.74,.pdf,PyMuPDF,ok,509,scanned_image_pdf_no_text_layer,0,0,509,安徽,,山水寺观志,0
+黄山志定本（七卷）.pdf,29.42,.pdf,PyMuPDF,ok,414,scanned_image_pdf_no_text_layer,0,0,414,安徽,,山水寺观志,0
+鼓楼区志.pdf,9.39,.pdf,PyMuPDF,ok,746,searchable_text_pdf,1051886,730,386,江苏,,府州县区市志,10
+龙江船厂志.pdf,7.43,.pdf,PyMuPDF,ok,302,mostly_scanned_with_some_text,347,2,300,江苏,,山水寺观志,38
+（万历）嘉定县志（卷一至卷七）.pdf,11.13,.pdf,PyMuPDF,ok,139,scanned_image_pdf_no_text_layer,0,0,139,上海,万历,府州县区市志,0
+（万历）扬州府志.pdf,37.73,.pdf,PyMuPDF,ok,470,scanned_image_pdf_no_text_layer,0,0,469,江苏,万历,府州县区市志,0
+（上海市）静安区志（一）.doc,1.62,.doc,binary_decode_heuristic+file_metadata,ok,,,47356,,,上海,,府州县区市志,
+（乾隆）淮安府志（一）.pdf,29.63,.pdf,PyMuPDF,ok,457,scanned_image_pdf_no_text_layer,0,0,457,江苏,乾隆,府州县区市志,0
+（乾隆）淮安府志（二）.pdf,28.62,.pdf,PyMuPDF,ok,447,scanned_image_pdf_no_text_layer,0,0,447,江苏,乾隆,府州县区市志,0
+（元）至正无锡县志（一）.pdf,30.34,.pdf,PyMuPDF,ok,70,scanned_image_pdf_no_text_layer,0,0,70,江苏,元|至正,府州县区市志,0
+（元）至正无锡县志（二）.pdf,27.95,.pdf,PyMuPDF,ok,62,scanned_image_pdf_no_text_layer,0,0,62,江苏,元|至正,府州县区市志,0
+（光绪）皖志便览.pdf,6.85,.pdf,PyMuPDF,ok,356,scanned_image_pdf_no_text_layer,0,0,355,安徽,光绪,地方文献/杂志类,0
+（咸淳）重修毗陵志 （嘉庆）广陵事略.pdf,27.56,.pdf,PyMuPDF,ok,398,scanned_image_pdf_no_text_layer,0,0,398,未判定/综合,嘉庆|咸淳,地方文献/杂志类,0
+（嘉定）镇江志.pdf,11.31,.pdf,PyMuPDF,ok,173,scanned_image_pdf_no_text_layer,0,0,173,江苏,,地方文献/杂志类,0
+（嘉庆）东流县志.pdf,24.09,.pdf,PyMuPDF,ok,327,scanned_image_pdf_no_text_layer,0,0,327,安徽,嘉庆,府州县区市志,0
+（嘉庆）凤台县志.pdf,16.4,.pdf,PyMuPDF,ok,186,scanned_image_pdf_no_text_layer,0,0,186,安徽,嘉庆,府州县区市志,0
+（嘉庆）新修江宁府志（一）.pdf,30.96,.pdf,PyMuPDF,ok,460,scanned_image_pdf_no_text_layer,0,0,460,江苏,嘉庆,府州县区市志,0
+（嘉庆）新修江宁府志（二）.pdf,28.6,.pdf,PyMuPDF,ok,359,scanned_image_pdf_no_text_layer,0,0,359,江苏,嘉庆,府州县区市志,0
+（嘉庆）松江府志（卷一至卷二十六）.pdf,46.86,.pdf,PyMuPDF,ok,575,scanned_image_pdf_no_text_layer,0,0,575,上海,嘉庆,府州县区市志,0
+（嘉庆）松江府志（卷七十六至卷八十四）.pdf,18.45,.pdf,PyMuPDF,ok,219,scanned_image_pdf_no_text_layer,0,0,219,上海,嘉庆,府州县区市志,0
+（嘉庆）松江府志（卷二十七至卷五十五）.pdf,46.7,.pdf,PyMuPDF,ok,657,scanned_image_pdf_no_text_layer,0,0,657,上海,嘉庆,府州县区市志,0
+（嘉庆）松江府志（卷五十六至卷七十五）.pdf,34.93,.pdf,PyMuPDF,ok,426,scanned_image_pdf_no_text_layer,0,0,426,上海,嘉庆,府州县区市志,0
+（嘉庆）直隶太仓州志（一）.pdf,29.55,.pdf,PyMuPDF,ok,422,scanned_image_pdf_no_text_layer,0,0,422,江苏,嘉庆,府州县区市志,0
+（嘉庆）直隶太仓州志（三）.pdf,21.05,.pdf,PyMuPDF,ok,279,scanned_image_pdf_no_text_layer,0,0,279,江苏,嘉庆,府州县区市志,0
+（嘉庆）直隶太仓州志（二）.pdf,22.8,.pdf,PyMuPDF,ok,284,scanned_image_pdf_no_text_layer,0,0,284,江苏,嘉庆,府州县区市志,0
+（宝祐）重修琴川志.pdf,7.09,.pdf,PyMuPDF,ok,102,scanned_image_pdf_no_text_layer,0,0,102,未判定/综合,宝祐,地方文献/杂志类,0
+（弘治）重修无锡县志.pdf,32.69,.pdf,PyMuPDF,ok,940,scanned_image_pdf_no_text_layer,0,0,940,江苏,弘治,府州县区市志,0
+（民国）安徽概览.pdf,42.08,.pdf,PyMuPDF,ok,371,scanned_image_pdf_no_text_layer,0,0,371,安徽,民国,地方文献/杂志类,0
+（淳祐）玉峰志 （咸淳）玉峰续志.pdf,2.7,.pdf,PyMuPDF,ok,55,scanned_image_pdf_no_text_layer,0,0,55,未判定/综合,咸淳|淳祐,山水寺观志,0
+（清）张泽志稿·张泽志·干山志·民国佘山小志.pdf,28.0,.pdf,PyMuPDF,ok,508,scanned_image_pdf_no_text_layer,0,0,507,上海,民国|清,乡镇村里志|山水寺观志,0
+（清）朱泾志·干巷志·寒圩志·重辑张堰志.pdf,175.09,.pdf,PyMuPDF,ok,669,scanned_image_pdf_no_text_layer,0,0,669,上海,清,地方文献/杂志类,26
+（清）罗店镇志 （民国）盛桥里志 大场里志 江湾 (1).pdf,27.17,.pdf,PyMuPDF,ok,458,scanned_image_pdf_no_text_layer,0,0,457,上海,民国|清,乡镇村里志,0
+（清）罗店镇志 （民国）盛桥里志 大场里志 江湾.pdf,26.07,.pdf,PyMuPDF,ok,474,scanned_image_pdf_no_text_layer,0,0,474,上海,民国|清,乡镇村里志,0
+（清）重辑枫泾小志·续修枫泾小志.pdf,34.51,.pdf,PyMuPDF,ok,708,scanned_image_pdf_no_text_layer,0,0,707,上海,清,乡镇村里志,0
+（绍熙）云间志.pdf,3.71,.pdf,PyMuPDF,ok,79,scanned_image_pdf_no_text_layer,0,0,79,未判定/综合,绍熙,地方文献/杂志类,0
+（至正）昆山郡志.pdf,2.73,.pdf,PyMuPDF,ok,47,scanned_image_pdf_no_text_layer,0,0,47,江苏,至正,地方文献/杂志类,0
+（至顺）镇江志.pdf,15.37,.pdf,PyMuPDF,ok,203,scanned_image_pdf_no_text_layer,0,0,203,江苏,至顺,地方文献/杂志类,0
+（连云港市）海州区志.pdf,16.37,.pdf,PyMuPDF,ok,540,scanned_image_pdf_no_text_layer,0,0,539,江苏,,府州县区市志,4
+（道光）来安县志.pdf,4.03,.pdf,PyMuPDF,ok,519,searchable_text_pdf,293657,519,8,安徽,道光,府州县区市志,0

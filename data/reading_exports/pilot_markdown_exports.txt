@@ -1,0 +1,19 @@
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_8ac060901a96__盛泽镇志.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_f4a9a18a5f20__岳西卫生志.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_7bb6b2710a31__泰州方志考略.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_32ffc1ff5554__阜宁县土壤志.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_842a00b22f4b__（道光）来安县志.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_4c1c359217c6__南京建置志（一）.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_366454084eda__安徽省志·纺织工业志.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_004a021677a6__近代上海地区方志经济史料选辑（1840—1949）.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_56f4b0d92bf6__上海地方志概述.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_6a7cf18fdfc3__兴化方言志.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_34aaf204b2c3__[光绪]重修安徽通志总目录.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_41e345749dec__嘉定县志·方言.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_29ee7be00abe__安徽方志考略.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_1678af90cf34__灵岩志略.pdf.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_4156be344675__江苏省交通志·公路篇(1978-2008) 道路运输（草.doc.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_321865661e46__安徽省 枞阳县志.doc.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_3e8acdade16f__（上海市）静安区志（一）.doc.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_4ce3b5c5c31c__江苏旧方志提要.doc.md
+<LOCAL_SOURCE_ROOT>/苏皖沪古籍县志调查/第一轮扫描/data/reading_exports/swhgz_183d73f4dfa0__江苏省志 文物志.pdf.baiduyun.p.downloading.md

@@ -1,0 +1,26 @@
+{
+  "source_manifest": "<TMP>/jiangsu_shanghai_anhui_scan_manifest.json",
+  "file_count": 493,
+  "by_extension": {
+    ".pdf": 484,
+    ".doc": 6,
+    ".pdf.baiduyun.p.downloading": 1,
+    ".rar": 1,
+    ".卷首.1-6.马士图辑.光绪年刊.pdf": 1
+  },
+  "by_region_guess": {
+    "安徽": 148,
+    "江苏": 214,
+    "上海": 58,
+    "未判定/综合": 44,
+    "跨省/综合": 29
+  },
+  "by_pdf_kind": {
+    "scanned_image_pdf_no_text_layer": 372,
+    "mostly_scanned_with_some_text": 102,
+    "searchable_text_pdf": 12
+  },
+  "incomplete_download_count": 1,
+  "archive_count": 1,
+  "manifest_error_count": 1
+}
