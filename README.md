@@ -46,6 +46,8 @@ python3 scripts/11_generate_index.py
 python3 scripts/12_quality_report.py
 python3 scripts/13_build_reading_export_layer.py
 python3 scripts/14_generate_thematic_indexes.py
+python3 scripts/15_generate_pilot_value_report.py
+python3 scripts/16_generate_sample_audit_pack.py
 ```
 
 `scripts/07_run_ocr_pilot.py` is safe by default and only writes a dry-run plan. Real OCR requires `--execute`.
@@ -65,3 +67,13 @@ The thematic pilot indexes are written to `data/indexes/`:
 - `dialect_index.csv` / `dialect_index.jsonl`
 - `custom_index.csv` / `custom_index.jsonl`
 - `relic_index.csv` / `relic_index.jsonl`
+
+The pilot value evaluation layer is written to `data/reports/`:
+
+- `pilot_value_report.md`
+- `pilot_value_report.json`
+
+The manual sample audit pack is written to `data/quality_control/sample_audit/`:
+
+- `sample_audit_overview.md`
+- `{place,person,transport,dialect,custom,relic}_index_sample_audit.md`

@@ -1,0 +1,1675 @@
+{
+  "pilot_corpus_overview": {
+    "pilot_document_count": 20,
+    "available_text_status": {
+      "page_or_chunk_records": 4111,
+      "records_with_existing_text": 1836,
+      "records_needing_ocr": 2275,
+      "total_existing_text_chars": 2260625,
+      "possible_blank_pages": 22,
+      "thin_text_layer_pages": 95,
+      "quality_flag_counts": {
+        "needs_ocr": 2275,
+        "thin_text_layer": 95,
+        "possible_blank_page": 22
+      },
+      "issue_counts": {
+        "archive_not_extracted_in_text_stage": 1
+      },
+      "page_quality_flag_rows": 2275,
+      "extraction_issue_rows": 1,
+      "existing_text_record_pct": 44.66,
+      "ocr_needed_record_pct": 55.34
+    },
+    "total_indexed_entries_by_category": {
+      "place_index": 1832,
+      "person_index": 229,
+      "transport_index": 249,
+      "dialect_index": 20,
+      "custom_index": 107,
+      "relic_index": 252
+    },
+    "thematic_index_summary_source": {
+      "place_index": 1832,
+      "person_index": 229,
+      "transport_index": 249,
+      "dialect_index": 20,
+      "custom_index": 107,
+      "relic_index": 252,
+      "policy": "Conservative dictionary and explicit-pattern extraction from pilot clean text. Entries are capped per document-term and always include page + context snippet."
+    },
+    "source_coverage": {
+      "pilot_document_count": 20,
+      "documents_with_any_index": 12,
+      "documents_without_index_entries": [
+        "swhgz_1678af90cf34",
+        "swhgz_183d73f4dfa0",
+        "swhgz_29ee7be00abe",
+        "swhgz_34aaf204b2c3",
+        "swhgz_41e345749dec",
+        "swhgz_4c1c359217c6",
+        "swhgz_6a7cf18fdfc3",
+        "swhgz_b1898e92cfcb"
+      ],
+      "document_coverage_pct": 60.0,
+      "indexed_page_count": 793,
+      "docs_by_index": {
+        "place_index": {
+          "document_count": 12,
+          "document_coverage_pct": 60.0
+        },
+        "person_index": {
+          "document_count": 4,
+          "document_coverage_pct": 20.0
+        },
+        "transport_index": {
+          "document_count": 10,
+          "document_coverage_pct": 50.0
+        },
+        "dialect_index": {
+          "document_count": 5,
+          "document_coverage_pct": 25.0
+        },
+        "custom_index": {
+          "document_count": 9,
+          "document_coverage_pct": 45.0
+        },
+        "relic_index": {
+          "document_count": 8,
+          "document_coverage_pct": 40.0
+        }
+      },
+      "pages_by_index": {
+        "place_index": 588,
+        "person_index": 108,
+        "transport_index": 139,
+        "dialect_index": 14,
+        "custom_index": 67,
+        "relic_index": 144
+      },
+      "by_pilot_bucket": {
+        "doc": {
+          "documents": 4,
+          "indexed_entries": 1702,
+          "existing_text_records": 614,
+          "processed_records": 614,
+          "text_record_coverage_pct": 100.0,
+          "avg_indexed_entries_per_doc": 425.5
+        },
+        "partial_text_pdf": {
+          "documents": 4,
+          "indexed_entries": 28,
+          "existing_text_records": 7,
+          "processed_records": 1088,
+          "text_record_coverage_pct": 0.64,
+          "avg_indexed_entries_per_doc": 7.0
+        },
+        "qc_edge": {
+          "documents": 2,
+          "indexed_entries": 0,
+          "existing_text_records": 0,
+          "processed_records": 815,
+          "text_record_coverage_pct": 0.0,
+          "avg_indexed_entries_per_doc": 0.0
+        },
+        "scanned_pdf": {
+          "documents": 5,
+          "indexed_entries": 0,
+          "existing_text_records": 0,
+          "processed_records": 265,
+          "text_record_coverage_pct": 0.0,
+          "avg_indexed_entries_per_doc": 0.0
+        },
+        "searchable_pdf": {
+          "documents": 5,
+          "indexed_entries": 959,
+          "existing_text_records": 1215,
+          "processed_records": 1329,
+          "text_record_coverage_pct": 91.42,
+          "avg_indexed_entries_per_doc": 191.8
+        }
+      }
+    }
+  },
+  "index_density_by_document": {
+    "documents": [
+      {
+        "doc_id": "swhgz_8ac060901a96",
+        "source_file_name": "盛泽镇志.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "江苏",
+        "place_index": 171,
+        "person_index": 0,
+        "transport_index": 46,
+        "dialect_index": 8,
+        "custom_index": 25,
+        "relic_index": 38,
+        "total_indexed_entries": 288
+      },
+      {
+        "doc_id": "swhgz_f4a9a18a5f20",
+        "source_file_name": "岳西卫生志.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "安徽",
+        "place_index": 91,
+        "person_index": 78,
+        "transport_index": 12,
+        "dialect_index": 0,
+        "custom_index": 1,
+        "relic_index": 2,
+        "total_indexed_entries": 184
+      },
+      {
+        "doc_id": "swhgz_7bb6b2710a31",
+        "source_file_name": "泰州方志考略.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "跨省/综合",
+        "place_index": 21,
+        "person_index": 0,
+        "transport_index": 1,
+        "dialect_index": 0,
+        "custom_index": 5,
+        "relic_index": 3,
+        "total_indexed_entries": 30
+      },
+      {
+        "doc_id": "swhgz_32ffc1ff5554",
+        "source_file_name": "阜宁县土壤志.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "江苏",
+        "place_index": 24,
+        "person_index": 0,
+        "transport_index": 11,
+        "dialect_index": 0,
+        "custom_index": 1,
+        "relic_index": 5,
+        "total_indexed_entries": 41
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "安徽",
+        "place_index": 303,
+        "person_index": 26,
+        "transport_index": 27,
+        "dialect_index": 1,
+        "custom_index": 13,
+        "relic_index": 46,
+        "total_indexed_entries": 416
+      },
+      {
+        "doc_id": "swhgz_4c1c359217c6",
+        "source_file_name": "南京建置志（一）.pdf",
+        "pilot_bucket": "partial_text_pdf",
+        "pdf_kind": "mostly_scanned_with_some_text",
+        "region_guess": "江苏",
+        "place_index": 0,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 0
+      },
+      {
+        "doc_id": "swhgz_366454084eda",
+        "source_file_name": "安徽省志·纺织工业志.pdf",
+        "pilot_bucket": "partial_text_pdf",
+        "pdf_kind": "mostly_scanned_with_some_text",
+        "region_guess": "安徽",
+        "place_index": 2,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 2
+      },
+      {
+        "doc_id": "swhgz_004a021677a6",
+        "source_file_name": "近代上海地区方志经济史料选辑（1840—1949）.pdf",
+        "pilot_bucket": "partial_text_pdf",
+        "pdf_kind": "mostly_scanned_with_some_text",
+        "region_guess": "上海",
+        "place_index": 3,
+        "person_index": 0,
+        "transport_index": 3,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 6
+      },
+      {
+        "doc_id": "swhgz_56f4b0d92bf6",
+        "source_file_name": "上海地方志概述.pdf",
+        "pilot_bucket": "partial_text_pdf",
+        "pdf_kind": "mostly_scanned_with_some_text",
+        "region_guess": "跨省/综合",
+        "place_index": 20,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 20
+      },
+      {
+        "doc_id": "swhgz_6a7cf18fdfc3",
+        "source_file_name": "兴化方言志.pdf",
+        "pilot_bucket": "scanned_pdf",
+        "pdf_kind": "scanned_image_pdf_no_text_layer",
+        "region_guess": "江苏",
+        "place_index": 0,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 0
+      },
+      {
+        "doc_id": "swhgz_34aaf204b2c3",
+        "source_file_name": "[光绪]重修安徽通志总目录.pdf",
+        "pilot_bucket": "scanned_pdf",
+        "pdf_kind": "scanned_image_pdf_no_text_layer",
+        "region_guess": "安徽",
+        "place_index": 0,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 0
+      },
+      {
+        "doc_id": "swhgz_41e345749dec",
+        "source_file_name": "嘉定县志·方言.pdf",
+        "pilot_bucket": "scanned_pdf",
+        "pdf_kind": "scanned_image_pdf_no_text_layer",
+        "region_guess": "上海",
+        "place_index": 0,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 0
+      },
+      {
+        "doc_id": "swhgz_29ee7be00abe",
+        "source_file_name": "安徽方志考略.pdf",
+        "pilot_bucket": "scanned_pdf",
+        "pdf_kind": "scanned_image_pdf_no_text_layer",
+        "region_guess": "跨省/综合",
+        "place_index": 0,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 0
+      },
+      {
+        "doc_id": "swhgz_1678af90cf34",
+        "source_file_name": "灵岩志略.pdf",
+        "pilot_bucket": "scanned_pdf",
+        "pdf_kind": "scanned_image_pdf_no_text_layer",
+        "region_guess": "未判定/综合",
+        "place_index": 0,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 0
+      },
+      {
+        "doc_id": "swhgz_4156be344675",
+        "source_file_name": "江苏省交通志·公路篇(1978-2008) 道路运输（草.doc",
+        "pilot_bucket": "doc",
+        "pdf_kind": null,
+        "region_guess": "江苏",
+        "place_index": 195,
+        "person_index": 0,
+        "transport_index": 41,
+        "dialect_index": 1,
+        "custom_index": 1,
+        "relic_index": 0,
+        "total_indexed_entries": 238
+      },
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "pilot_bucket": "doc",
+        "pdf_kind": null,
+        "region_guess": "安徽",
+        "place_index": 341,
+        "person_index": 20,
+        "transport_index": 51,
+        "dialect_index": 1,
+        "custom_index": 13,
+        "relic_index": 71,
+        "total_indexed_entries": 497
+      },
+      {
+        "doc_id": "swhgz_3e8acdade16f",
+        "source_file_name": "（上海市）静安区志（一）.doc",
+        "pilot_bucket": "doc",
+        "pdf_kind": null,
+        "region_guess": "上海",
+        "place_index": 124,
+        "person_index": 0,
+        "transport_index": 18,
+        "dialect_index": 0,
+        "custom_index": 6,
+        "relic_index": 24,
+        "total_indexed_entries": 172
+      },
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "pilot_bucket": "doc",
+        "pdf_kind": null,
+        "region_guess": "跨省/综合",
+        "place_index": 537,
+        "person_index": 105,
+        "transport_index": 39,
+        "dialect_index": 9,
+        "custom_index": 42,
+        "relic_index": 63,
+        "total_indexed_entries": 795
+      },
+      {
+        "doc_id": "swhgz_183d73f4dfa0",
+        "source_file_name": "江苏省志 文物志.pdf.baiduyun.p.downloading",
+        "pilot_bucket": "qc_edge",
+        "pdf_kind": "scanned_image_pdf_no_text_layer",
+        "region_guess": "江苏",
+        "place_index": 0,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 0
+      },
+      {
+        "doc_id": "swhgz_b1898e92cfcb",
+        "source_file_name": "苏州市志 第一册.rar",
+        "pilot_bucket": "qc_edge",
+        "pdf_kind": null,
+        "region_guess": "江苏",
+        "place_index": 0,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 0
+      }
+    ],
+    "top_10_highest_density_documents": [
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "pilot_bucket": "doc",
+        "pdf_kind": null,
+        "region_guess": "跨省/综合",
+        "place_index": 537,
+        "person_index": 105,
+        "transport_index": 39,
+        "dialect_index": 9,
+        "custom_index": 42,
+        "relic_index": 63,
+        "total_indexed_entries": 795
+      },
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "pilot_bucket": "doc",
+        "pdf_kind": null,
+        "region_guess": "安徽",
+        "place_index": 341,
+        "person_index": 20,
+        "transport_index": 51,
+        "dialect_index": 1,
+        "custom_index": 13,
+        "relic_index": 71,
+        "total_indexed_entries": 497
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "安徽",
+        "place_index": 303,
+        "person_index": 26,
+        "transport_index": 27,
+        "dialect_index": 1,
+        "custom_index": 13,
+        "relic_index": 46,
+        "total_indexed_entries": 416
+      },
+      {
+        "doc_id": "swhgz_8ac060901a96",
+        "source_file_name": "盛泽镇志.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "江苏",
+        "place_index": 171,
+        "person_index": 0,
+        "transport_index": 46,
+        "dialect_index": 8,
+        "custom_index": 25,
+        "relic_index": 38,
+        "total_indexed_entries": 288
+      },
+      {
+        "doc_id": "swhgz_4156be344675",
+        "source_file_name": "江苏省交通志·公路篇(1978-2008) 道路运输（草.doc",
+        "pilot_bucket": "doc",
+        "pdf_kind": null,
+        "region_guess": "江苏",
+        "place_index": 195,
+        "person_index": 0,
+        "transport_index": 41,
+        "dialect_index": 1,
+        "custom_index": 1,
+        "relic_index": 0,
+        "total_indexed_entries": 238
+      },
+      {
+        "doc_id": "swhgz_f4a9a18a5f20",
+        "source_file_name": "岳西卫生志.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "安徽",
+        "place_index": 91,
+        "person_index": 78,
+        "transport_index": 12,
+        "dialect_index": 0,
+        "custom_index": 1,
+        "relic_index": 2,
+        "total_indexed_entries": 184
+      },
+      {
+        "doc_id": "swhgz_3e8acdade16f",
+        "source_file_name": "（上海市）静安区志（一）.doc",
+        "pilot_bucket": "doc",
+        "pdf_kind": null,
+        "region_guess": "上海",
+        "place_index": 124,
+        "person_index": 0,
+        "transport_index": 18,
+        "dialect_index": 0,
+        "custom_index": 6,
+        "relic_index": 24,
+        "total_indexed_entries": 172
+      },
+      {
+        "doc_id": "swhgz_32ffc1ff5554",
+        "source_file_name": "阜宁县土壤志.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "江苏",
+        "place_index": 24,
+        "person_index": 0,
+        "transport_index": 11,
+        "dialect_index": 0,
+        "custom_index": 1,
+        "relic_index": 5,
+        "total_indexed_entries": 41
+      },
+      {
+        "doc_id": "swhgz_7bb6b2710a31",
+        "source_file_name": "泰州方志考略.pdf",
+        "pilot_bucket": "searchable_pdf",
+        "pdf_kind": "searchable_text_pdf",
+        "region_guess": "跨省/综合",
+        "place_index": 21,
+        "person_index": 0,
+        "transport_index": 1,
+        "dialect_index": 0,
+        "custom_index": 5,
+        "relic_index": 3,
+        "total_indexed_entries": 30
+      },
+      {
+        "doc_id": "swhgz_56f4b0d92bf6",
+        "source_file_name": "上海地方志概述.pdf",
+        "pilot_bucket": "partial_text_pdf",
+        "pdf_kind": "mostly_scanned_with_some_text",
+        "region_guess": "跨省/综合",
+        "place_index": 20,
+        "person_index": 0,
+        "transport_index": 0,
+        "dialect_index": 0,
+        "custom_index": 0,
+        "relic_index": 0,
+        "total_indexed_entries": 20
+      }
+    ]
+  },
+  "direction_a_evaluation": {
+    "strongest_place_documents": [
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "count": 537
+      },
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "count": 341
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "count": 303
+      },
+      {
+        "doc_id": "swhgz_4156be344675",
+        "source_file_name": "江苏省交通志·公路篇(1978-2008) 道路运输（草.doc",
+        "count": 195
+      },
+      {
+        "doc_id": "swhgz_8ac060901a96",
+        "source_file_name": "盛泽镇志.pdf",
+        "count": 171
+      }
+    ],
+    "strongest_transport_documents": [
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "count": 51
+      },
+      {
+        "doc_id": "swhgz_8ac060901a96",
+        "source_file_name": "盛泽镇志.pdf",
+        "count": 46
+      },
+      {
+        "doc_id": "swhgz_4156be344675",
+        "source_file_name": "江苏省交通志·公路篇(1978-2008) 道路运输（草.doc",
+        "count": 41
+      },
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "count": 39
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "count": 27
+      }
+    ],
+    "strongest_person_documents": [
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "count": 105
+      },
+      {
+        "doc_id": "swhgz_f4a9a18a5f20",
+        "source_file_name": "岳西卫生志.pdf",
+        "count": 78
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "count": 26
+      },
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "count": 20
+      }
+    ],
+    "strongest_dialect_documents": [
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "count": 9
+      },
+      {
+        "doc_id": "swhgz_8ac060901a96",
+        "source_file_name": "盛泽镇志.pdf",
+        "count": 8
+      },
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "count": 1
+      },
+      {
+        "doc_id": "swhgz_4156be344675",
+        "source_file_name": "江苏省交通志·公路篇(1978-2008) 道路运输（草.doc",
+        "count": 1
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "count": 1
+      }
+    ],
+    "category_totals": {
+      "place_index": 1832,
+      "transport_index": 249,
+      "person_index": 229,
+      "dialect_index": 20
+    },
+    "total_entries": 2330,
+    "documents_with_any_direction_a_entry": 12,
+    "viability_assessment": "方向 A 在 pilot 中最稳的是地点与交通：地点索引量大，交通也有成体系命中，人物可作为辅助线索。方言目前条目很少，主要说明已有文本层覆盖不足或方言类文档尚未 OCR，不能单独支撑大规模结论。因此该方向可行，但应表述为“地理/交通为主，人物与方言为辅助”的阶段性路线。"
+  },
+  "direction_b_evaluation": {
+    "strongest_custom_documents": [
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "count": 42
+      },
+      {
+        "doc_id": "swhgz_8ac060901a96",
+        "source_file_name": "盛泽镇志.pdf",
+        "count": 25
+      },
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "count": 13
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "count": 13
+      },
+      {
+        "doc_id": "swhgz_3e8acdade16f",
+        "source_file_name": "（上海市）静安区志（一）.doc",
+        "count": 6
+      }
+    ],
+    "strongest_relic_documents": [
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "count": 71
+      },
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "count": 63
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "count": 46
+      },
+      {
+        "doc_id": "swhgz_8ac060901a96",
+        "source_file_name": "盛泽镇志.pdf",
+        "count": 38
+      },
+      {
+        "doc_id": "swhgz_3e8acdade16f",
+        "source_file_name": "（上海市）静安区志（一）.doc",
+        "count": 24
+      }
+    ],
+    "overlapping_person_custom_relic_documents": [
+      {
+        "doc_id": "swhgz_4ce3b5c5c31c",
+        "source_file_name": "江苏旧方志提要.doc",
+        "person_index": 105,
+        "custom_index": 42,
+        "relic_index": 63,
+        "combined_total": 210
+      },
+      {
+        "doc_id": "swhgz_321865661e46",
+        "source_file_name": "安徽省 枞阳县志.doc",
+        "person_index": 20,
+        "custom_index": 13,
+        "relic_index": 71,
+        "combined_total": 104
+      },
+      {
+        "doc_id": "swhgz_842a00b22f4b",
+        "source_file_name": "（道光）来安县志.pdf",
+        "person_index": 26,
+        "custom_index": 13,
+        "relic_index": 46,
+        "combined_total": 85
+      },
+      {
+        "doc_id": "swhgz_f4a9a18a5f20",
+        "source_file_name": "岳西卫生志.pdf",
+        "person_index": 78,
+        "custom_index": 1,
+        "relic_index": 2,
+        "combined_total": 81
+      }
+    ],
+    "category_totals": {
+      "custom_index": 107,
+      "person_index": 229,
+      "relic_index": 252
+    },
+    "total_entries": 588,
+    "documents_with_any_direction_b_entry": 9,
+    "viability_assessment": "方向 B 有一定基础，尤其人物与文物/遗迹可形成互证；但风俗条目数量明显少于地点类，文物/遗迹索引中也存在“文物、古迹、书院”等通用词，需要在扩展前继续细化专名识别。该方向适合作为第二阶段专题线，而不是当前唯一主线。"
+  },
+  "entity_quality_audit": {
+    "place_index": {
+      "total_rows": 1832,
+      "most_frequent_entities": [
+        {
+          "term": "江苏",
+          "count": 43
+        },
+        {
+          "term": "上海",
+          "count": 42
+        },
+        {
+          "term": "南京",
+          "count": 34
+        },
+        {
+          "term": "扬州",
+          "count": 33
+        },
+        {
+          "term": "安徽",
+          "count": 32
+        },
+        {
+          "term": "苏州",
+          "count": 30
+        },
+        {
+          "term": "上海市",
+          "count": 30
+        },
+        {
+          "term": "江苏省",
+          "count": 29
+        },
+        {
+          "term": "台湾",
+          "count": 29
+        },
+        {
+          "term": "镇江",
+          "count": 28
+        },
+        {
+          "term": "淮安",
+          "count": 27
+        },
+        {
+          "term": "江宁",
+          "count": 27
+        },
+        {
+          "term": "无锡",
+          "count": 26
+        },
+        {
+          "term": "金陵",
+          "count": 25
+        },
+        {
+          "term": "金山",
+          "count": 25
+        }
+      ],
+      "suspiciously_generic_terms": [],
+      "possible_category_noise_terms": [],
+      "short_context_count": 1,
+      "short_context_samples": [
+        {
+          "row_number": 193,
+          "entity": "金山",
+          "doc_id": "swhgz_f4a9a18a5f20",
+          "page_number": "46",
+          "context_snippet": "751.75 39 响肠镇金山卫生所 1 1 1"
+        }
+      ],
+      "confidence_counts": {
+        "high": 1750,
+        "medium": 82
+      },
+      "low_confidence_or_uncertain_count": 82,
+      "low_confidence_or_uncertain_samples": [
+        {
+          "row_number": 134,
+          "entity": "台湾",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "136",
+          "confidence": "medium",
+          "context_snippet": "当律师，调解纠纷，收谢礼较高，故里中人多有微 词。民国37 年(1948) 秋至香港，1957 年6 月病逝于台湾，享年79 岁。少梅善书画，与常熟曾朴、邑人杨千里、里人邵力子过从甚密。 长子肇湘，毕业于上海交通大学，曾任陈"
+        },
+        {
+          "row_number": 135,
+          "entity": "台湾",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "136",
+          "confidence": "medium",
+          "context_snippet": "1934) ， 任四川永川督察专员、四川省政府要员。抗战胜利后，任江苏省民 政厅长、西南长官公署政务处长。后至台湾，任\"总统府参议兼档 498 案室主任\"。与张群友善。恩乡情切，晚年著《我的回忆》。享年 100 岁。 汪大"
+        },
+        {
+          "row_number": 138,
+          "entity": "台湾",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "138",
+          "confidence": "medium",
+          "context_snippet": "，与妇女部长张应春密切合作。国民党清党后，明睦遂脱离政治， 长期从事教育工作，任上海务本女子中学校长多年。后至台湾，80 年代初病逝。其妹杨明暗，毕业于上海爱国女学，早年亦参加国民 革命。杨民姐妹在里中声名甚著。 钮树椿(1"
+        },
+        {
+          "row_number": 142,
+          "entity": "台湾",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "139",
+          "confidence": "medium",
+          "context_snippet": "食司 科长，掌理重庆市民食调节与公教粮配给工作。抗战胜利后，任土 海粮政特派员办公处专门委员。 1949 年至台湾。1966 年任联合国 驻叙利亚共和国经济顾问。 1968年转任马拉威国立大学客座教授 2 年。1971 年任"
+        },
+        {
+          "row_number": 143,
+          "entity": "台湾",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "139",
+          "confidence": "medium",
+          "context_snippet": "。1966 年任联合国 驻叙利亚共和国经济顾问。 1968年转任马拉威国立大学客座教授 2 年。1971 年任台湾土地银行董事长。 1977 年任台湾省合作金库 理事长。1983年退休，翌年移居美国。 1986 年病逝于美国"
+        },
+        {
+          "row_number": 173,
+          "entity": "岳西县",
+          "doc_id": "swhgz_f4a9a18a5f20",
+          "page_number": "12",
+          "confidence": "medium",
+          "context_snippet": "第一节岳西县医院 第二节基层医疗 第三节社会医疗服务 第六章中医与中西医结合 第一节岳西县中医院 第二节岳西"
+        },
+        {
+          "row_number": 174,
+          "entity": "岳西县",
+          "doc_id": "swhgz_f4a9a18a5f20",
+          "page_number": "12",
+          "confidence": "medium",
+          "context_snippet": "第一节岳西县医院 第二节基层医疗 第三节社会医疗服务 第六章中医与中西医结合 第一节岳西县中医院 第二节岳西县医院中医医疗 第三节基层中医药 第七章医学教育与科研 第一节岳西县中等卫生职业"
+        },
+        {
+          "row_number": 175,
+          "entity": "岳西县",
+          "doc_id": "swhgz_f4a9a18a5f20",
+          "page_number": "12",
+          "confidence": "medium",
+          "context_snippet": "西县医院 第二节基层医疗 第三节社会医疗服务 第六章中医与中西医结合 第一节岳西县中医院 第二节岳西县医院中医医疗 第三节基层中医药 第七章医学教育与科研 第一节岳西县中等卫生职业技术学校 第二节岳西"
+        },
+        {
+          "row_number": 176,
+          "entity": "岳西县",
+          "doc_id": "swhgz_f4a9a18a5f20",
+          "page_number": "12",
+          "confidence": "medium",
+          "context_snippet": "合 第一节岳西县中医院 第二节岳西县医院中医医疗 第三节基层中医药 第七章医学教育与科研 第一节岳西县中等卫生职业技术学校 第二节岳西县中医药科研中心 第三节医学继续教育 第四节医学科研 第八章卫生监"
+        },
+        {
+          "row_number": 177,
+          "entity": "岳西县",
+          "doc_id": "swhgz_f4a9a18a5f20",
+          "page_number": "12",
+          "confidence": "medium",
+          "context_snippet": "西县医院中医医疗 第三节基层中医药 第七章医学教育与科研 第一节岳西县中等卫生职业技术学校 第二节岳西县中医药科研中心 第三节医学继续教育 第四节医学科研 第八章卫生监督与执法 第一节公共卫生监督 第"
+        }
+      ],
+      "source_error_count": 0,
+      "source_error_samples": []
+    },
+    "person_index": {
+      "total_rows": 229,
+      "most_frequent_entities": [
+        {
+          "term": "储著忠",
+          "count": 5
+        },
+        {
+          "term": "储厥芳",
+          "count": 4
+        },
+        {
+          "term": "储昭朗",
+          "count": 4
+        },
+        {
+          "term": "汪一江",
+          "count": 4
+        },
+        {
+          "term": "周伯义",
+          "count": 4
+        },
+        {
+          "term": "陈多学",
+          "count": 3
+        },
+        {
+          "term": "吴保印",
+          "count": 3
+        },
+        {
+          "term": "崔世绪",
+          "count": 2
+        },
+        {
+          "term": "张德喜",
+          "count": 2
+        },
+        {
+          "term": "储晓玲",
+          "count": 2
+        },
+        {
+          "term": "吴传华",
+          "count": 2
+        },
+        {
+          "term": "刘志高",
+          "count": 2
+        },
+        {
+          "term": "柏兴慧",
+          "count": 2
+        },
+        {
+          "term": "王宜斌",
+          "count": 2
+        },
+        {
+          "term": "钱金喜",
+          "count": 2
+        }
+      ],
+      "suspiciously_generic_terms": [],
+      "possible_category_noise_terms": [],
+      "short_context_count": 0,
+      "short_context_samples": [],
+      "confidence_counts": {
+        "high": 229
+      },
+      "low_confidence_or_uncertain_count": 0,
+      "low_confidence_or_uncertain_samples": [],
+      "source_error_count": 0,
+      "source_error_samples": []
+    },
+    "transport_index": {
+      "total_rows": 249,
+      "most_frequent_entities": [
+        {
+          "term": "交通",
+          "count": 39
+        },
+        {
+          "term": "公路",
+          "count": 32
+        },
+        {
+          "term": "道路",
+          "count": 32
+        },
+        {
+          "term": "桥梁",
+          "count": 25
+        },
+        {
+          "term": "铁路",
+          "count": 23
+        },
+        {
+          "term": "运河",
+          "count": 17
+        },
+        {
+          "term": "客运",
+          "count": 17
+        },
+        {
+          "term": "码头",
+          "count": 16
+        },
+        {
+          "term": "货运",
+          "count": 16
+        },
+        {
+          "term": "驿站",
+          "count": 11
+        },
+        {
+          "term": "渡口",
+          "count": 10
+        },
+        {
+          "term": "道路运输",
+          "count": 5
+        },
+        {
+          "term": "航运",
+          "count": 5
+        },
+        {
+          "term": "京杭运河",
+          "count": 1
+        }
+      ],
+      "suspiciously_generic_terms": [
+        {
+          "term": "交通",
+          "count": 39
+        },
+        {
+          "term": "公路",
+          "count": 32
+        },
+        {
+          "term": "道路",
+          "count": 32
+        }
+      ],
+      "possible_category_noise_terms": [
+        {
+          "term": "交通",
+          "count": 6
+        },
+        {
+          "term": "公路",
+          "count": 4
+        },
+        {
+          "term": "道路",
+          "count": 2
+        }
+      ],
+      "short_context_count": 0,
+      "short_context_samples": [],
+      "confidence_counts": {
+        "high": 249
+      },
+      "low_confidence_or_uncertain_count": 0,
+      "low_confidence_or_uncertain_samples": [],
+      "source_error_count": 0,
+      "source_error_samples": []
+    },
+    "dialect_index": {
+      "total_rows": 20,
+      "most_frequent_entities": [
+        {
+          "term": "方言",
+          "count": 12
+        },
+        {
+          "term": "俗语",
+          "count": 4
+        },
+        {
+          "term": "吴语",
+          "count": 3
+        },
+        {
+          "term": "音系",
+          "count": 1
+        }
+      ],
+      "suspiciously_generic_terms": [
+        {
+          "term": "方言",
+          "count": 12
+        },
+        {
+          "term": "俗语",
+          "count": 4
+        },
+        {
+          "term": "音系",
+          "count": 1
+        }
+      ],
+      "possible_category_noise_terms": [
+        {
+          "term": "方言",
+          "count": 5
+        },
+        {
+          "term": "俗语",
+          "count": 2
+        }
+      ],
+      "short_context_count": 0,
+      "short_context_samples": [],
+      "confidence_counts": {
+        "high": 15,
+        "medium": 5
+      },
+      "low_confidence_or_uncertain_count": 5,
+      "low_confidence_or_uncertain_samples": [
+        {
+          "row_number": 3,
+          "entity": "俗语",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "15",
+          "confidence": "medium",
+          "context_snippet": ". . . . . . .……. ... ..- ... .., ••• ••• ...455 第二节谚语俗语…….. . . . .………·………. ... '..459 第三节歇后语……. . . . ..…………"
+        },
+        {
+          "row_number": 9,
+          "entity": "俗语",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "117",
+          "confidence": "medium",
+          "context_snippet": "稳 市货一一物件质量好，货真 价实 遥腾腾一一遥远 寻铜锢一一挣钱 垫舌头一一不体面 扰-.-浪费 第二节谚语俗语 有打有骂有值钱(对孩子既爱护叉严格) 贪贱两家穷(两家指买卖双方) 者糠搓绳开头难 猫射污、狗做主(甲的事由"
+        },
+        {
+          "row_number": 11,
+          "entity": "音系",
+          "doc_id": "swhgz_4156be344675",
+          "page_number": "26",
+          "confidence": "medium",
+          "context_snippet": "。新投放的10辆商务班车，宽敞的车身内仅设置了32个座位，按“2＋1”格局排列 每车配有7台液晶电视和高档影音系统，车辆的动力性、安全性和乘坐舒适度大大提高。 2007年8月15日 南京白鹭客运公司开通南京至上海浦东机场和"
+        },
+        {
+          "row_number": 18,
+          "entity": "俗语",
+          "doc_id": "swhgz_4ce3b5c5c31c",
+          "page_number": "195",
+          "confidence": "medium",
+          "context_snippet": "了补充资料。但唱词部分受韵文形式所限，不如解述具有较翔实的资料价值。不过唱词中的方言俚语，却提供了研究当地方言俗语的宝贵资料。 （许卫平）"
+        },
+        {
+          "row_number": 20,
+          "entity": "俗语",
+          "doc_id": "swhgz_4ce3b5c5c31c",
+          "page_number": "254",
+          "confidence": "medium",
+          "context_snippet": "了补充资料。但唱词部分受韵文形式所限，不如解述具有较翔实的资料价值。不过唱词中的方言俚语，却提供了研究当地方言俗语的宝贵资料。 （许卫平）"
+        }
+      ],
+      "source_error_count": 0,
+      "source_error_samples": []
+    },
+    "custom_index": {
+      "total_rows": 107,
+      "most_frequent_entities": [
+        {
+          "term": "风俗",
+          "count": 19
+        },
+        {
+          "term": "岁时",
+          "count": 16
+        },
+        {
+          "term": "祭祀",
+          "count": 16
+        },
+        {
+          "term": "习俗",
+          "count": 12
+        },
+        {
+          "term": "庙会",
+          "count": 11
+        },
+        {
+          "term": "风土",
+          "count": 11
+        },
+        {
+          "term": "民俗",
+          "count": 9
+        },
+        {
+          "term": "婚丧",
+          "count": 8
+        },
+        {
+          "term": "节令",
+          "count": 5
+        }
+      ],
+      "suspiciously_generic_terms": [
+        {
+          "term": "风俗",
+          "count": 19
+        },
+        {
+          "term": "岁时",
+          "count": 16
+        },
+        {
+          "term": "习俗",
+          "count": 12
+        },
+        {
+          "term": "风土",
+          "count": 11
+        },
+        {
+          "term": "民俗",
+          "count": 9
+        },
+        {
+          "term": "节令",
+          "count": 5
+        }
+      ],
+      "possible_category_noise_terms": [
+        {
+          "term": "习俗",
+          "count": 4
+        },
+        {
+          "term": "岁时",
+          "count": 2
+        },
+        {
+          "term": "节令",
+          "count": 2
+        },
+        {
+          "term": "风俗",
+          "count": 1
+        }
+      ],
+      "short_context_count": 0,
+      "short_context_samples": [],
+      "confidence_counts": {
+        "high": 107
+      },
+      "low_confidence_or_uncertain_count": 0,
+      "low_confidence_or_uncertain_samples": [],
+      "source_error_count": 0,
+      "source_error_samples": []
+    },
+    "relic_index": {
+      "total_rows": 252,
+      "most_frequent_entities": [
+        {
+          "term": "遗址",
+          "count": 24
+        },
+        {
+          "term": "书院",
+          "count": 22
+        },
+        {
+          "term": "文物",
+          "count": 22
+        },
+        {
+          "term": "古迹",
+          "count": 21
+        },
+        {
+          "term": "胜迹",
+          "count": 12
+        },
+        {
+          "term": "文化遗产",
+          "count": 4
+        },
+        {
+          "term": "静安寺",
+          "count": 4
+        },
+        {
+          "term": "古文化遗址",
+          "count": 3
+        },
+        {
+          "term": "土地祠",
+          "count": 2
+        },
+        {
+          "term": "朱子祠",
+          "count": 2
+        },
+        {
+          "term": "建阳书院",
+          "count": 2
+        },
+        {
+          "term": "双塘遗址",
+          "count": 2
+        },
+        {
+          "term": "夜成墩遗址",
+          "count": 2
+        },
+        {
+          "term": "静安寺记碑",
+          "count": 2
+        },
+        {
+          "term": "报恩寺",
+          "count": 2
+        }
+      ],
+      "suspiciously_generic_terms": [
+        {
+          "term": "遗址",
+          "count": 24
+        },
+        {
+          "term": "书院",
+          "count": 22
+        },
+        {
+          "term": "文物",
+          "count": 22
+        },
+        {
+          "term": "古迹",
+          "count": 21
+        },
+        {
+          "term": "胜迹",
+          "count": 12
+        }
+      ],
+      "possible_category_noise_terms": [
+        {
+          "term": "文物",
+          "count": 7
+        },
+        {
+          "term": "胜迹",
+          "count": 4
+        },
+        {
+          "term": "书院",
+          "count": 2
+        },
+        {
+          "term": "古迹",
+          "count": 1
+        }
+      ],
+      "short_context_count": 0,
+      "short_context_samples": [],
+      "confidence_counts": {
+        "medium": 105,
+        "high": 147
+      },
+      "low_confidence_or_uncertain_count": 105,
+      "low_confidence_or_uncertain_samples": [
+        {
+          "row_number": 2,
+          "entity": "书院",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "13",
+          "confidence": "medium",
+          "context_snippet": "• • • • • • .……… '331 自由 一............._......， 第-章义学与书院 第一节义学 第二节书院 第二章普通教育 第一节幼儿教育与小学 第二节普通中学 第三章专业教育 第一节初级丝织"
+        },
+        {
+          "row_number": 3,
+          "entity": "书院",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "13",
+          "confidence": "medium",
+          "context_snippet": ".……… '331 自由 一............._......， 第-章义学与书院 第一节义学 第二节书院 第二章普通教育 第一节幼儿教育与小学 第二节普通中学 第三章专业教育 第一节初级丝织职业学校 第二节 吴江丝"
+        },
+        {
+          "row_number": 4,
+          "entity": "文物",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "14",
+          "confidence": "medium",
+          "context_snippet": "第一节书画组织 第二节学术组织 第三节戏曲组织 第四节音乐组织 第三章报刊杂志 第一节报刊 第二节杂志 第四章文物胜迹 第一节文物 第二节胜迹 第三节略湖八景 卷 三 十 第 …. \" .. . .…….. . .. . ."
+        },
+        {
+          "row_number": 5,
+          "entity": "文物",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "14",
+          "confidence": "medium",
+          "context_snippet": "第二节学术组织 第三节戏曲组织 第四节音乐组织 第三章报刊杂志 第一节报刊 第二节杂志 第四章文物胜迹 第一节文物 第二节胜迹 第三节略湖八景 卷 三 十 第 …. \" .. . .…….. . .. . .. . . ."
+        },
+        {
+          "row_number": 6,
+          "entity": "胜迹",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "14",
+          "confidence": "medium",
+          "context_snippet": "节书画组织 第二节学术组织 第三节戏曲组织 第四节音乐组织 第三章报刊杂志 第一节报刊 第二节杂志 第四章文物胜迹 第一节文物 第二节胜迹 第三节略湖八景 卷 三 十 第 …. \" .. . .…….. . .. . .."
+        },
+        {
+          "row_number": 7,
+          "entity": "胜迹",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "14",
+          "confidence": "medium",
+          "context_snippet": "织 第三节戏曲组织 第四节音乐组织 第三章报刊杂志 第一节报刊 第二节杂志 第四章文物胜迹 第一节文物 第二节胜迹 第三节略湖八景 卷 三 十 第 …. \" .. . .…….. . .. . .. . . . . . ."
+        },
+        {
+          "row_number": 8,
+          "entity": "书院",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "17",
+          "confidence": "medium",
+          "context_snippet": "4 名选士，77 名举人，仲周需称\"人文蔚起， 科第相望\"，恐非虚言。盛泽的绸商素来比较重视教育，早期的吴公 书院是镇上的绸商领袖筹银创建的。乾隆年间的松陵学舍博得苏 州知府雅尔哈善的激棠，它自然也浸渍了盛泽士商的心血。清末"
+        },
+        {
+          "row_number": 9,
+          "entity": "古迹",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "18",
+          "confidence": "medium",
+          "context_snippet": "丰富经验，盛泽虽一隅之地，就有方志 数种。例如，两部《盛湖志》中对地理、区域、水文、灾异、街坊、学校、 名胜、古迹、人物等的记载较为完备s 同治《盛湖志》对盛泽的沿革、 盛泽之名的来历采取极为审慎的态度，不作虚夸之论。它的语"
+        },
+        {
+          "row_number": 14,
+          "entity": "书院",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "20",
+          "confidence": "medium",
+          "context_snippet": "夜，积至八尺。 同治二年(1863) 春，太平军退出盛浑，县翠署恢复。八年 (1869)冬，肆业公所(俗称盛湖书院)创建。 光绪四年(1878)，米业公所建立。九年(1883) ，洪养和堂(中 药铺)开设。十三年(1887)"
+        },
+        {
+          "row_number": 15,
+          "entity": "书院",
+          "doc_id": "swhgz_8ac060901a96",
+          "page_number": "20",
+          "confidence": "medium",
+          "context_snippet": "十八年 (1699) ，张佩兰捐建新安义学。四十九年(1710) ，建山西会馆。五 十年(1711) ，建吴公书院。康熙年间，黄溪成市。 乾隆五年(1 740) ，吴江县Æ署移驻盛泽，镇区由东肠、西肠、充 2 3"
+        }
+      ],
+      "source_error_count": 0,
+      "source_error_samples": []
+    }
+  },
+  "source_traceability_check": {
+    "total_rows": 2689,
+    "total_malformed_rows": 0,
+    "traceable": true,
+    "by_index": {
+      "place_index": {
+        "rows": 1832,
+        "malformed_rows": 0,
+        "malformed_samples": []
+      },
+      "person_index": {
+        "rows": 229,
+        "malformed_rows": 0,
+        "malformed_samples": []
+      },
+      "transport_index": {
+        "rows": 249,
+        "malformed_rows": 0,
+        "malformed_samples": []
+      },
+      "dialect_index": {
+        "rows": 20,
+        "malformed_rows": 0,
+        "malformed_samples": []
+      },
+      "custom_index": {
+        "rows": 107,
+        "malformed_rows": 0,
+        "malformed_samples": []
+      },
+      "relic_index": {
+        "rows": 252,
+        "malformed_rows": 0,
+        "malformed_samples": []
+      }
+    }
+  },
+  "recommended_full_corpus_expansion_strategy": {
+    "document_type_priority": [
+      {
+        "document_type": "乡镇村里志",
+        "documents": 1,
+        "indexed_entries": 288,
+        "processed_records": 176,
+        "records_needing_ocr": 10,
+        "existing_text_chars": 231443,
+        "avg_indexed_entries_per_doc": 288.0,
+        "ocr_need_pct": 5.68
+      },
+      {
+        "document_type": "交通运输",
+        "documents": 1,
+        "indexed_entries": 238,
+        "processed_records": 62,
+        "records_needing_ocr": 0,
+        "existing_text_chars": 134672,
+        "avg_indexed_entries_per_doc": 238.0,
+        "ocr_need_pct": 0.0
+      },
+      {
+        "document_type": "府州县区市志",
+        "documents": 5,
+        "indexed_entries": 1085,
+        "processed_records": 808,
+        "records_needing_ocr": 40,
+        "existing_text_chars": 837974,
+        "avg_indexed_entries_per_doc": 217.0,
+        "ocr_need_pct": 4.95
+      },
+      {
+        "document_type": "方志目录研究",
+        "documents": 4,
+        "indexed_entries": 825,
+        "processed_records": 471,
+        "records_needing_ocr": 155,
+        "existing_text_chars": 678901,
+        "avg_indexed_entries_per_doc": 206.25,
+        "ocr_need_pct": 32.91
+      },
+      {
+        "document_type": "地方文献/杂志类",
+        "documents": 3,
+        "indexed_entries": 204,
+        "processed_records": 704,
+        "records_needing_ocr": 308,
+        "existing_text_chars": 306367,
+        "avg_indexed_entries_per_doc": 68.0,
+        "ocr_need_pct": 43.75
+      },
+      {
+        "document_type": "省志/通志",
+        "documents": 4,
+        "indexed_entries": 240,
+        "processed_records": 1278,
+        "records_needing_ocr": 1215,
+        "existing_text_chars": 134754,
+        "avg_indexed_entries_per_doc": 60.0,
+        "ocr_need_pct": 95.07
+      },
+      {
+        "document_type": "产业行业志",
+        "documents": 2,
+        "indexed_entries": 43,
+        "processed_records": 601,
+        "records_needing_ocr": 476,
+        "existing_text_chars": 70468,
+        "avg_indexed_entries_per_doc": 21.5,
+        "ocr_need_pct": 79.2
+      },
+      {
+        "document_type": "经济财政工商",
+        "documents": 1,
+        "indexed_entries": 6,
+        "processed_records": 404,
+        "records_needing_ocr": 401,
+        "existing_text_chars": 800,
+        "avg_indexed_entries_per_doc": 6.0,
+        "ocr_need_pct": 99.26
+      },
+      {
+        "document_type": "山水寺观志",
+        "documents": 1,
+        "indexed_entries": 0,
+        "processed_records": 43,
+        "records_needing_ocr": 43,
+        "existing_text_chars": 0,
+        "avg_indexed_entries_per_doc": 0.0,
+        "ocr_need_pct": 100.0
+      },
+      {
+        "document_type": "文化教育文物",
+        "documents": 1,
+        "indexed_entries": 0,
+        "processed_records": 815,
+        "records_needing_ocr": 815,
+        "existing_text_chars": 0,
+        "avg_indexed_entries_per_doc": 0.0,
+        "ocr_need_pct": 100.0
+      },
+      {
+        "document_type": "方言民俗风土",
+        "documents": 2,
+        "indexed_entries": 0,
+        "processed_records": 67,
+        "records_needing_ocr": 67,
+        "existing_text_chars": 0,
+        "avg_indexed_entries_per_doc": 0.0,
+        "ocr_need_pct": 100.0
+      }
+    ],
+    "ready_indexes_for_expansion": [
+      "place_index",
+      "person_index"
+    ],
+    "indexes_needing_refinement_first": [
+      "transport_index",
+      "dialect_index",
+      "custom_index",
+      "relic_index"
+    ],
+    "recommendations": [
+      "优先处理 searchable_text_pdf：pilot 显示此类文档能立刻产出可追溯索引，适合先扩大样本并校验实体规则。",
+      "第二阶段处理 partial_text_pdf：先用页级 OCR queue 只补无文本页或薄文本层页，避免整本重跑造成成本失控。",
+      "第三阶段处理 scanned_pdf：先按文档类型抽样 OCR，例如方言志、镇志、旧县志各取少量，确认主题产出后再批量扩展。",
+      "不要把 scanned PDF 当前低索引量解释为研究价值低；它主要反映尚未 OCR。",
+      "可先扩展的索引：地点, 人物。",
+      "扩展前建议细化的索引：交通, 方言, 风俗, 文物/遗迹。"
+    ]
+  },
+  "final_project_direction_recommendation": {
+    "primary_direction": "A. geography / transport / people / dialect",
+    "secondary_direction": "B. customs / people / relics",
+    "evidence_summary": "方向 A 当前合计 2330 条，其中地点 1832 条、交通 249 条、人物 229 条；方向 B 合计 588 条，其中风俗 107 条、文物/遗迹 252 条。方向 A 的证据密度更高，且更适合先做跨文档检索。",
+    "caution": "该结论只来自 pilot 的已有文本层。由于仍有大量页面需要 OCR，尤其 scanned 与 partial-text 文档，当前报告不能代表全 493 文件 corpus 的最终主题分布。"
+  }
+}
