@@ -1,0 +1,9 @@
+{
+  "place_index": 1832,
+  "person_index": 229,
+  "transport_index": 249,
+  "dialect_index": 20,
+  "custom_index": 107,
+  "relic_index": 252,
+  "policy": "Conservative dictionary and explicit-pattern extraction from pilot clean text. Entries are capped per document-term and always include page + context snippet."
+}

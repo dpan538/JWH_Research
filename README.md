@@ -45,6 +45,7 @@ python3 scripts/10_export_reading_markdown.py
 python3 scripts/11_generate_index.py
 python3 scripts/12_quality_report.py
 python3 scripts/13_build_reading_export_layer.py
+python3 scripts/14_generate_thematic_indexes.py
 ```
 
 `scripts/07_run_ocr_pilot.py` is safe by default and only writes a dry-run plan. Real OCR requires `--execute`.
@@ -55,3 +56,12 @@ The structured reading layer is written to `data/reading_exports/documents/{doc_
 - `clean_reading.md`
 - `annotated_reading.md`
 - `summary.md`
+
+The thematic pilot indexes are written to `data/indexes/`:
+
+- `place_index.csv` / `place_index.jsonl`
+- `person_index.csv` / `person_index.jsonl`
+- `transport_index.csv` / `transport_index.jsonl`
+- `dialect_index.csv` / `dialect_index.jsonl`
+- `custom_index.csv` / `custom_index.jsonl`
+- `relic_index.csv` / `relic_index.jsonl`
