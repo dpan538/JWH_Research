@@ -1,0 +1,1177 @@
+[
+  {
+    "doc_id": "swhgz_8ac060901a96",
+    "source_file_name": "盛泽镇志.pdf",
+    "region": "江苏",
+    "period": [],
+    "gazetteer_type": [
+      "乡镇村里志"
+    ],
+    "page_count": 176,
+    "ocr_text_status": "167/176 page/chunk records have existing text; 10 require OCR.",
+    "detected_table_of_contents": [
+      "目录",
+      "第一卷地理……·",
+      "第一章建置沿革……………………………………. . . . .….3",
+      "第一节历代建置.. . . .…………………………. . . . . . . '..3",
+      "第二节行政区划……... . .……. ......... ......... .........4",
+      "第二章地理环境………‘………\".. . ... ...... .‘….. . \" ..……………9",
+      "第一节位置地形·",
+      "第二节河流. .. ... . . . ... ~ .. . . . ... '\" . . . . \" . .. . . . . . . . . . . . . . . . . . . 9",
+      "第三节气候水文……….. . . . . . .……. . . . . . . . . .………刊",
+      "第四节灾害………·",
+      "第三章物产…………………………………………………四",
+      "第一节农副产品……………….. . . .. . .…. . . . . . . . . . . . . .. . .19",
+      "第二节特产……………………... . \"…. . . . . . . .……. \". 20",
+      "第四章人口…………. \" . \" . ., • •• • • • • • • • •• • •• •• • • •• ••• • • • • •• • • • • ... 21",
+      "第一节人口变化.. . . . .…. . . . . . . .……. .,. • • • .…. . . .. . .…·21",
+      "第二节人口现状……. . . . . .……………. . . . .………….26",
+      "第三节计划生育……………………. . . . .…………….36",
+      "第四节华侨和港、澳、台同胞……...……….. . . . . . . . ...39"
+    ],
+    "major_sections": [
+      "目录",
+      "前言",
+      "大事记",
+      "第一卷地理",
+      "第一章建置沿革",
+      "第一节历代建置",
+      "第二节行政区划",
+      "第二章地理环境",
+      "第一节位置地形·",
+      "第二节河流.",
+      "第三节气候水文",
+      "第四节灾害",
+      "第三章物产",
+      "第一节农副产品",
+      "第二节特产",
+      "第四章人口",
+      "第一节人口变化",
+      "第二节人口现状",
+      "第三节计划生育",
+      "第四节华侨和港、澳、台同胞",
+      "第二卷",
+      "第二节",
+      "第三节",
+      "第四节",
+      "第五节",
+      "第一章街里桥闸",
+      "第一节街里",
+      "第二节桥闸",
+      "第三节围垦西白漾",
+      "第二章房建供水",
+      "第一节",
+      "第三章",
+      "第四卷",
+      "第一章",
+      "第二节清党及其后的组织和活动",
+      "第二章",
+      "第二节解放后党组织的发展",
+      "第三章工青妇学团体",
+      "第一节工会",
+      "第二节共产主义青年团",
+      "第三节妇女联合会",
+      "第四章其它群团",
+      "第二节建国后的群团",
+      "第四章市政管理",
+      "第一节市建管理",
+      "第三卷",
+      "第二章议事会",
+      "第五卷",
+      "第一章驻军人民武装部",
+      "第一节驻军",
+      "第二节人民武装部",
+      "第二节民兵",
+      "第三章兵事",
+      "第一节历代战事",
+      "第三节解放盛泽和剿匪肃特",
+      "第六卷",
+      "第一章丝织业",
+      "第一节手工织造",
+      "第二节工场织造",
+      "第三节，工厂织造"
+    ],
+    "notable_place_names": [
+      "盛泽",
+      "吴江",
+      "上海",
+      "苏州",
+      "盛泽镇",
+      "江苏",
+      "南京",
+      "无锡",
+      "安徽",
+      "金陵",
+      "吴县",
+      "松江",
+      "徽州",
+      "常熟",
+      "青浦",
+      "扬州",
+      "镇江",
+      "安庆",
+      "昆山",
+      "南汇",
+      "徐州",
+      "太仓",
+      "淮安",
+      "静安",
+      "盐城",
+      "泰州",
+      "江宁",
+      "南通",
+      "兴化"
+    ],
+    "notable_person_names": [],
+    "notable_transport_references": [
+      "公路",
+      "交通",
+      "铁路",
+      "桥梁",
+      "客运",
+      "码头",
+      "道路",
+      "运河",
+      "货运",
+      "渡口"
+    ],
+    "notable_dialect_references": [
+      "方言",
+      "俗语",
+      "吴语"
+    ],
+    "notable_custom_folk_references": [
+      "风俗",
+      "习俗",
+      "岁时",
+      "祭祀",
+      "民俗",
+      "节令",
+      "婚丧",
+      "庙会"
+    ],
+    "notable_relic_cultural_heritage_references": [
+      "书院",
+      "文物",
+      "胜迹",
+      "古迹",
+      "遗址"
+    ],
+    "quality_warnings": [
+      "needs_ocr: 10 page/chunk records",
+      "thin_text_layer: 1 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_f4a9a18a5f20",
+    "source_file_name": "岳西卫生志.pdf",
+    "region": "安徽",
+    "period": [],
+    "gazetteer_type": [
+      "地方文献/杂志类"
+    ],
+    "page_count": 406,
+    "ocr_text_status": "406/406 page/chunk records have existing text; 13 require OCR.",
+    "detected_table_of_contents": [
+      "《岳西卫生志》目录",
+      "第一章卫生行政与管理",
+      "第一节行政机构",
+      "第二节文书档案管理",
+      "第三节卫生信息宣传",
+      "第四节车辆管理",
+      "第二章卫生资源与利用",
+      "第一节卫生人员",
+      "第二节机构与床位",
+      "第三节建筑与设施",
+      "第四节设备与器械",
+      "第五节卫生经费与费用",
+      "第六节卫生信息与统计",
+      "第三章疾病控制与干预"
+    ],
+    "major_sections": [
+      "凡例",
+      "概述",
+      "大事记",
+      "第一章卫生行政与管理",
+      "第一节行政机构",
+      "第二节文书档案管理",
+      "第三节卫生信息宣传",
+      "第四节车辆管理",
+      "第二章卫生资源与利用",
+      "第一节卫生人员",
+      "第二节机构与床位",
+      "第三节建筑与设施",
+      "第四节设备与器械",
+      "第五节卫生经费与费用",
+      "第六节卫生信息与统计",
+      "第三章疾病控制与干预",
+      "第一节传染病防治",
+      "第二节疫情报告与管理",
+      "第三节预防接种与计划免疫",
+      "第四节地方病防治",
+      "第五节性病艾滋病防治",
+      "第六节卫生检验",
+      "第七节健康教育",
+      "第八节爱国卫生运动",
+      "第九节消毒监测",
+      "第四章妇幼卫生",
+      "第一节新法接生",
+      "第二节婚姻保健",
+      "第三节孕产妇定期保健",
+      "第四节妇科病防治",
+      "第五节儿童保健",
+      "第六节计划生育技术指导与管理",
+      "第七节综合管理",
+      "第八节创建爱婴医院活动",
+      "第九节妇幼合作项目",
+      "第五章西医医疗",
+      "第一节岳西县医院",
+      "第二节基层医疗",
+      "第三节社会医疗服务",
+      "第六章中医与中西医结合",
+      "第一节岳西县中医院",
+      "第二节岳西县医院中医医疗",
+      "第三节基层中医药",
+      "第七章医学教育与科研",
+      "第一节岳西县中等卫生职业技术学校",
+      "第二节岳西县中医药科研中心",
+      "第三节医学继续教育",
+      "第四节医学科研",
+      "第八章卫生监督与执法",
+      "第一节公共卫生监督",
+      "第二节药品监督与管理",
+      "第三节医政执法与监督",
+      "第四节医院分级管理与评审",
+      "第九章公费医疗与贫困救助",
+      "第一节公费医疗",
+      "第二节合作医疗",
+      "第三节劳保医疗",
+      "第四节减免费医疗",
+      "第五节干部保健",
+      "第六节贫困救助"
+    ],
+    "notable_place_names": [
+      "岳西",
+      "安庆",
+      "安徽",
+      "上海",
+      "江苏",
+      "南京",
+      "镇江",
+      "金陵",
+      "盐城",
+      "南通",
+      "来安",
+      "无锡"
+    ],
+    "notable_person_names": [
+      "汪一江",
+      "吴保印",
+      "宋祥林",
+      "储厥芳",
+      "崔世绪",
+      "储昭朗",
+      "张德喜",
+      "储晓玲",
+      "陶康生",
+      "程玉松",
+      "陈多学",
+      "储著忠",
+      "柏兴惠"
+    ],
+    "notable_transport_references": [
+      "交通",
+      "公路",
+      "桥梁"
+    ],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [
+      "节令"
+    ],
+    "notable_relic_cultural_heritage_references": [
+      "书院"
+    ],
+    "quality_warnings": [
+      "needs_ocr: 13 page/chunk records",
+      "thin_text_layer: 13 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_7bb6b2710a31",
+    "source_file_name": "泰州方志考略.pdf",
+    "region": "跨省/综合",
+    "period": [],
+    "gazetteer_type": [
+      "方志目录研究"
+    ],
+    "page_count": 13,
+    "ocr_text_status": "13/13 page/chunk records have existing text; 0 require OCR.",
+    "detected_table_of_contents": [
+      "目录",
+      "但志前无目录",
+      "目录",
+      "目录中前列"
+    ],
+    "major_sections": [
+      "第五章",
+      "大事记",
+      "目录",
+      "序",
+      "卷二为《考辨论次》十篇",
+      "卷三",
+      "卷五为《列传》名贤十一篇",
+      "卷六为《列传》笃",
+      "风俗",
+      "人物"
+    ],
+    "notable_place_names": [
+      "泰州",
+      "扬州",
+      "海安",
+      "江苏",
+      "兴化",
+      "吴县",
+      "江宁",
+      "南通",
+      "无锡"
+    ],
+    "notable_person_names": [],
+    "notable_transport_references": [
+      "交通"
+    ],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [
+      "风俗",
+      "婚丧",
+      "风土"
+    ],
+    "notable_relic_cultural_heritage_references": [
+      "文物",
+      "古迹",
+      "书院"
+    ],
+    "quality_warnings": []
+  },
+  {
+    "doc_id": "swhgz_32ffc1ff5554",
+    "source_file_name": "阜宁县土壤志.pdf",
+    "region": "江苏",
+    "period": [],
+    "gazetteer_type": [
+      "产业行业志"
+    ],
+    "page_count": 215,
+    "ocr_text_status": "204/215 page/chunk records have existing text; 91 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [
+      "第一章 概况",
+      "第二节 自然概况",
+      "第三节 社会经济状况",
+      "第二章 土壤的形成",
+      "第一节 成陆历史",
+      "第二节 土壤形成条件",
+      "第三章 土壤分类和分布",
+      "第一节 土壤分类",
+      "第二节 土壤分布",
+      "第四章 土种各论",
+      "第一节 水稻土类",
+      "第二节 潮土类",
+      "第三节 盐土类",
+      "第四节 沼泽土土类",
+      "第五章 土壤肥力状况",
+      "第一节 土壤水分",
+      "第二节 土壤养分",
+      "第三节 土壤的物理性状",
+      "第六章 土地资源概况及评级",
+      "第一节 土地资源概况",
+      "第二节 土壤肥力综合评价",
+      "第七章 土壤改良利用分区",
+      "第一节 分区的原则和依据",
+      "第二节 区片划分",
+      "第三节 分区概述",
+      "第八章 土壤普查成果在农业生产中的应用",
+      "第一节 当前土壤肥料存在的主要问题",
+      "第二节 广泛开展成果应用"
+    ],
+    "notable_place_names": [
+      "阜宁",
+      "阜宁县",
+      "盐城",
+      "江苏",
+      "淮安",
+      "泰州",
+      "海安",
+      "扬州",
+      "南京"
+    ],
+    "notable_person_names": [],
+    "notable_transport_references": [
+      "公路",
+      "交通",
+      "道路",
+      "运河",
+      "桥梁"
+    ],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [
+      "风土"
+    ],
+    "notable_relic_cultural_heritage_references": [
+      "遗址",
+      "文物"
+    ],
+    "quality_warnings": [
+      "needs_ocr: 91 page/chunk records",
+      "thin_text_layer: 80 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_842a00b22f4b",
+    "source_file_name": "（道光）来安县志.pdf",
+    "region": "安徽",
+    "period": [
+      "道光"
+    ],
+    "gazetteer_type": [
+      "府州县区市志"
+    ],
+    "page_count": 519,
+    "ocr_text_status": "519/519 page/chunk records have existing text; 0 require OCR.",
+    "detected_table_of_contents": [
+      "出版说明、本书提要、目录等；卷中为原书顺序及全部内容；卷末为",
+      "来安县志目录",
+      "卷首 序 纂修员名 凡例 目录 县境图 县城图 县",
+      "别次目录"
+    ],
+    "major_sections": [
+      "序",
+      "卷一 舆地志 建置沿革 沿革表 疆域 星野 经纬度",
+      "卷二 营建志 公署仓库、院局附 城池街道、坊表、乡都、市集",
+      "卷三 食货志上 户口风俗附 田赋徭役附",
+      "卷四 食货志下 物产 仓储 蠲赈祥异附 义田各款规条附",
+      "卷五 水利志 塘沛 圩坝《圩田图说》、《朱家山开河记》附",
+      "卷六 学校志 学宫建置礼器、祭品、乐器、学额、学田、书院、",
+      "卷七 武备志 兵防 驻防 教场 塘汛 铺司驿递附 屯政",
+      "卷八 职官志表 文职 武职",
+      "卷九 名宦志传 名宦",
+      "卷十 选举志表 荐辟 科目 武职 仕籍 封赠 土职",
+      "卷十一 人物志传 乡贤 宦绩 孝义义行附 儒林 文苑",
+      "卷十二 烈女志 贞烈 贞节 节烈 节孝 女寿",
+      "卷十三 艺文志 集文上、下 集诗",
+      "卷十四 杂志 考辨 拾遗 正误捕蝗法",
+      "卷二寺观",
+      "卷二古迹",
+      "卷五水利",
+      "卷六方言",
+      "卷十一人物",
+      "卷三徭役",
+      "卷四义田"
+    ],
+    "notable_place_names": [
+      "来安",
+      "来安县",
+      "安徽",
+      "江宁",
+      "南京",
+      "扬州",
+      "徐州",
+      "江苏",
+      "淮安",
+      "苏州",
+      "安庆",
+      "嘉定",
+      "吴县",
+      "昆山",
+      "上海",
+      "盐城",
+      "镇江",
+      "金陵",
+      "南通",
+      "青浦",
+      "徽州",
+      "无锡",
+      "松江",
+      "阜宁",
+      "兴化",
+      "常熟",
+      "太仓",
+      "泰州",
+      "南汇"
+    ],
+    "notable_person_names": [
+      "易向军",
+      "胡炳成",
+      "魏晓雁",
+      "王宜斌",
+      "高怀忠",
+      "周忠友",
+      "刘廷槐",
+      "诸伟奇",
+      "高学发",
+      "钱金喜"
+    ],
+    "notable_transport_references": [
+      "驿站",
+      "桥梁",
+      "道路",
+      "交通",
+      "运河",
+      "码头",
+      "渡口"
+    ],
+    "notable_dialect_references": [
+      "方言"
+    ],
+    "notable_custom_folk_references": [
+      "祭祀",
+      "风俗",
+      "民俗",
+      "岁时",
+      "风土"
+    ],
+    "notable_relic_cultural_heritage_references": [
+      "书院",
+      "遗址",
+      "古迹",
+      "文化遗产",
+      "胜迹"
+    ],
+    "quality_warnings": []
+  },
+  {
+    "doc_id": "swhgz_4c1c359217c6",
+    "source_file_name": "南京建置志（一）.pdf",
+    "region": "江苏",
+    "period": [],
+    "gazetteer_type": [
+      "地方文献/杂志类"
+    ],
+    "page_count": 198,
+    "ocr_text_status": "1/198 page/chunk records have existing text; 197 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 197 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_366454084eda",
+    "source_file_name": "安徽省志·纺织工业志.pdf",
+    "region": "安徽",
+    "period": [],
+    "gazetteer_type": [
+      "省志/通志",
+      "产业行业志"
+    ],
+    "page_count": 386,
+    "ocr_text_status": "2/386 page/chunk records have existing text; 385 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [
+      "前言",
+      "目录"
+    ],
+    "notable_place_names": [
+      "安徽省",
+      "安徽"
+    ],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 385 page/chunk records",
+      "thin_text_layer: 1 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_004a021677a6",
+    "source_file_name": "近代上海地区方志经济史料选辑（1840—1949）.pdf",
+    "region": "上海",
+    "period": [],
+    "gazetteer_type": [
+      "经济财政工商"
+    ],
+    "page_count": 404,
+    "ocr_text_status": "3/404 page/chunk records have existing text; 401 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [
+      "上海",
+      "近代上海地区"
+    ],
+    "notable_person_names": [],
+    "notable_transport_references": [
+      "交通",
+      "公路",
+      "铁路"
+    ],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 401 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_56f4b0d92bf6",
+    "source_file_name": "上海地方志概述.pdf",
+    "region": "跨省/综合",
+    "period": [],
+    "gazetteer_type": [
+      "地方文献/杂志类"
+    ],
+    "page_count": 100,
+    "ocr_text_status": "2/100 page/chunk records have existing text; 98 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [
+      "前言",
+      "目录"
+    ],
+    "notable_place_names": [
+      "上海",
+      "嘉定县",
+      "嘉定",
+      "青浦",
+      "松江",
+      "南汇",
+      "川沙"
+    ],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 98 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_6a7cf18fdfc3",
+    "source_file_name": "兴化方言志.pdf",
+    "region": "江苏",
+    "period": [],
+    "gazetteer_type": [
+      "方言民俗风土"
+    ],
+    "page_count": 27,
+    "ocr_text_status": "0/27 page/chunk records have existing text; 27 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 27 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_34aaf204b2c3",
+    "source_file_name": "[光绪]重修安徽通志总目录.pdf",
+    "region": "安徽",
+    "period": [
+      "光绪"
+    ],
+    "gazetteer_type": [
+      "省志/通志",
+      "方志目录研究"
+    ],
+    "page_count": 15,
+    "ocr_text_status": "0/15 page/chunk records have existing text; 15 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 15 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_41e345749dec",
+    "source_file_name": "嘉定县志·方言.pdf",
+    "region": "上海",
+    "period": [],
+    "gazetteer_type": [
+      "府州县区市志",
+      "方言民俗风土"
+    ],
+    "page_count": 40,
+    "ocr_text_status": "0/40 page/chunk records have existing text; 40 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 40 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_29ee7be00abe",
+    "source_file_name": "安徽方志考略.pdf",
+    "region": "跨省/综合",
+    "period": [],
+    "gazetteer_type": [
+      "方志目录研究"
+    ],
+    "page_count": 140,
+    "ocr_text_status": "0/140 page/chunk records have existing text; 140 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 140 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_1678af90cf34",
+    "source_file_name": "灵岩志略.pdf",
+    "region": "未判定/综合",
+    "period": [],
+    "gazetteer_type": [
+      "山水寺观志"
+    ],
+    "page_count": 43,
+    "ocr_text_status": "0/43 page/chunk records have existing text; 43 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "needs_ocr: 43 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_4156be344675",
+    "source_file_name": "江苏省交通志·公路篇(1978-2008) 道路运输（草.doc",
+    "region": "江苏",
+    "period": [
+      "1978",
+      "2008"
+    ],
+    "gazetteer_type": [
+      "省志/通志",
+      "交通运输"
+    ],
+    "page_count": 62,
+    "ocr_text_status": "62/62 page/chunk records have existing text; 0 require OCR.",
+    "detected_table_of_contents": [
+      "年八月 《江苏省交通志·公路篇》（1978-2008） 道路运输 目 录 第一节 道路运输管理 一、道路运输管理机构 二、道路运输市场管理及其法律法规（增加） 三、道路运输许可 四、运政监督与检查 五、信息化技术应用（增加） 第二节 道路旅客运输及客运站场 一、班线客运（含旅游客运、快速客运） 二、城市客运（含公交客车",
+      "《江苏省交通志·公路篇》（1978-2008） 第三章 道路运输 （征求意见草稿） 第一节 道路运输管理 一、道路运输管理机构 1978年1月 省属第一、第二汽车运输处调整业务经营范围，第一汽车运输处专营货运，第二汽车运输处专营客运。两处所属的车队、车站、保修场等作相应的调整。1978年5月",
+      "《办法》规定：对车载监控系统收集的图像、录音等视听资料应在车载录像机硬盘存满前，保存到指定的计算机文档目录内，并保存2个月以上；作为证据使用的视听资料须保证完整，并保存4个月以上，作为证据时应与“运政在线”证据资料结合使用。"
+    ],
+    "major_sections": [],
+    "notable_place_names": [
+      "江苏",
+      "江苏省",
+      "南京",
+      "苏州",
+      "无锡",
+      "上海",
+      "扬州",
+      "南通",
+      "徐州",
+      "镇江",
+      "淮安",
+      "盐城",
+      "连云港",
+      "泰州",
+      "昆山",
+      "金陵",
+      "安徽",
+      "江宁",
+      "吴江",
+      "常熟",
+      "海安",
+      "吴县"
+    ],
+    "notable_person_names": [],
+    "notable_transport_references": [
+      "交通",
+      "客运",
+      "道路",
+      "公路",
+      "货运",
+      "道路运输",
+      "铁路",
+      "桥梁",
+      "码头",
+      "运河",
+      "京杭运河"
+    ],
+    "notable_dialect_references": [
+      "音系"
+    ],
+    "notable_custom_folk_references": [
+      "风土"
+    ],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": []
+  },
+  {
+    "doc_id": "swhgz_321865661e46",
+    "source_file_name": "安徽省 枞阳县志.doc",
+    "region": "安徽",
+    "period": [],
+    "gazetteer_type": [
+      "府州县区市志"
+    ],
+    "page_count": 190,
+    "ocr_text_status": "190/190 page/chunk records have existing text; 0 require OCR.",
+    "detected_table_of_contents": [
+      "11月2日，县第一次清理积存零散文件8276卷，并编写目录，归入档案馆。"
+    ],
+    "major_sections": [
+      "第二节 建置沿革         夏",
+      "第四节 水文 一、地表水 县属长江流域，境内陈瑶湖、白荡湖、菜子湖和“两赛”",
+      "第五节 林业 民国初年，桐城县",
+      "第六节 畜牧业 县境畜牧业生产历史悠久，“牛、豕",
+      "第六章 水产 引子 清代，桐城县在枞阳、孔城、民池、竹子",
+      "第三节 粮油加工业 一、粮油加工 民国时期，县粮油加工有",
+      "第四节 电业 一、发电",
+      "第二节 陆路 一、古道 桥梁",
+      "第三节 运输 一、运输工具",
+      "第二节 邮政业务",
+      "第二节 中国国民党 一、县地方组织概况 中国国民党原桐城县",
+      "第四节 群众团体 一、工会组织与活动",
+      "第二节 县政府 清末，县府称县衙、县署。宣统三年",
+      "第三节 政治协商会议 中国人民政治协商会议安徽省枞阳县委员会",
+      "第三节 群众文化 一、机构 （一）民众教育馆 民国10年",
+      "第六节 报刊广播电视 一、报刊",
+      "第三节 小学教育 一、学校设置 光绪三十年",
+      "第五节 专业教育 一、职业教育"
+    ],
+    "notable_place_names": [
+      "枞阳",
+      "枞阳县",
+      "安徽",
+      "安庆",
+      "安徽省",
+      "上海",
+      "南京",
+      "江苏",
+      "金陵",
+      "江宁",
+      "苏州",
+      "昆山",
+      "岳西",
+      "扬州",
+      "徽州",
+      "歙县",
+      "镇江",
+      "松江",
+      "来安",
+      "无锡",
+      "兴化",
+      "太仓",
+      "兴化县",
+      "常熟",
+      "徐州",
+      "吴江",
+      "南通",
+      "连云港",
+      "来安县",
+      "嘉定"
+    ],
+    "notable_person_names": [
+      "周学雄",
+      "吴学熙",
+      "何宗华"
+    ],
+    "notable_transport_references": [
+      "公路",
+      "交通",
+      "码头",
+      "客运",
+      "货运",
+      "渡口",
+      "航运",
+      "道路",
+      "铁路",
+      "桥梁",
+      "驿站"
+    ],
+    "notable_dialect_references": [
+      "方言"
+    ],
+    "notable_custom_folk_references": [
+      "岁时",
+      "祭祀",
+      "风土",
+      "风俗",
+      "民俗",
+      "婚丧",
+      "习俗"
+    ],
+    "notable_relic_cultural_heritage_references": [
+      "文物",
+      "遗址",
+      "书院",
+      "古迹",
+      "胜迹"
+    ],
+    "quality_warnings": []
+  },
+  {
+    "doc_id": "swhgz_3e8acdade16f",
+    "source_file_name": "（上海市）静安区志（一）.doc",
+    "region": "上海",
+    "period": [],
+    "gazetteer_type": [
+      "府州县区市志"
+    ],
+    "page_count": 59,
+    "ocr_text_status": "59/59 page/chunk records have existing text; 0 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [
+      "第一节 服装鞋帽"
+    ],
+    "notable_place_names": [
+      "上海",
+      "静安",
+      "南京",
+      "上海市",
+      "静安区",
+      "江宁",
+      "苏州",
+      "嘉定",
+      "淮安",
+      "江苏",
+      "吴江",
+      "镇江",
+      "嘉定县",
+      "常熟",
+      "扬州",
+      "青浦",
+      "无锡",
+      "太仓",
+      "安徽",
+      "松江",
+      "南汇"
+    ],
+    "notable_person_names": [],
+    "notable_transport_references": [
+      "交通",
+      "道路",
+      "铁路",
+      "客运",
+      "公路",
+      "码头",
+      "渡口",
+      "货运"
+    ],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [
+      "庙会",
+      "习俗"
+    ],
+    "notable_relic_cultural_heritage_references": [
+      "文物",
+      "遗址",
+      "古迹"
+    ],
+    "quality_warnings": []
+  },
+  {
+    "doc_id": "swhgz_4ce3b5c5c31c",
+    "source_file_name": "江苏旧方志提要.doc",
+    "region": "跨省/综合",
+    "period": [],
+    "gazetteer_type": [
+      "方志目录研究"
+    ],
+    "page_count": 303,
+    "ocr_text_status": "303/303 page/chunk records have existing text; 0 require OCR.",
+    "detected_table_of_contents": [
+      "目录 序 序 凡例 江苏省 南京市 江宁县 江浦县 六合县 溧水县 高淳县 无锡市 无锡县 江阴市 宜兴市 徐州市 铜山县 丰 县 沛 县 邳州市 睢宁县 常州市 武进县 金坛县 溧阳市 苏州市 吴 县 常熟市 太仓市 张家港市 昆山市 吴江市 南通市 南通县 海安县 如皋县 海门县 连云港市 赣榆县 淮阴市 淮安市 ",
+      "但是，应当承认，人们在正确认识旧地方志方面还有许多的工作要做。清代的《四库全书总目提要》和近、现代的不少书籍，特别是1985年北京天文台编成的《中国地方志联合目录》，为人们查阅，整理和研究旧地方志提供了极大的便利。但我们的同志在研究中，还是有一些拾遗补阙和纠谬的工作可以做。兹举二例如下：《",
+      "泰州志稿》，二卷，清宫伟镠、陆廷抡撰，成于康熙十三年（1673年），各种方志目录书均未著录。许卫平同志在工作中发现，该书初名《微尚录存》，收入宫氏《春雨草堂集》，民国九年（1920年）韩国钧编印《海陵丛刻》曾收入其中，书中所记为乡土、形胜、风俗、水利、钱粮、秩官、人物。实在是一本方志，（见《江苏地方志》1988年第3期",
+      "《江苏旧方志提要》以地域为经，以志书存佚状况为纬。全书共分江苏省、南京市、无锡市、徐州市、常州市、苏州市、南通市、连云港市、淮阴市、盐城市、扬州市、镇江市十二个部分。共收各种志书1170种，其中今存志书714种，佚志372种，存目84种，今存志书和存目内可以确认现在尚存的志书中，比《中国地方志联合目录》所载江苏部分新增",
+      "自1932年朱士嘉先生《中国地方志综录》问世，到1985年北京天文台《中国地方志联合目录》的编定，半个世纪来，方志目录方面的书籍已经出版了数十部，其中大都收有江苏旧方志方面的内容。这些方志目录，是步入旧方志殿堂的敲门砖，为旧方志的检索和查阅提供了极大的便利。但无可否认，由于旧地方志汗牛充栋，加之纂修、版本、收藏等情况极",
+      "二、本书采用条目式编目，一种独立的志书即为一目。每个条目分目录和提要两大项。目录项包括书名、卷数，纂修人、版本等，如有特殊情况需作说明，则在版本项后增设附注。提要项包括纂修人简介，修志缘起、卷目、主要内容与简要评价等。",
+      "三、书名以卷端题名为主要依据，书名采用地方别称，古称，首次出现时在附注项内加以说明。书名之前，一般按纂修年冠以年号或朝代号，纂修年无法确定的，按记事所止时间冠年号或朝代号。卷数以目录所标者为主要标准，如目录与正文不符，按正文所列卷数著录，并在附注或提要项内予以说明。未标卷数（或篇、章）的一般视为一卷，篇幅过小的则不著录",
+      "六、今存志书藏书单位凡《中国地方志联合目录》已经著录的，一般予以省略；《附存目》则尽可能地著录收藏情况。",
+      "十一、除目录项书名后的卷数外，其余数字一般使用阿拉伯数字。",
+      "江南通志 二百卷首四卷序目一卷／（清）尹继善等修，黄之隽等纂·—清乾隆2年（1737）刻本，清乾隆间《四库全书》本，1987年4月江苏广陵古籍刻印社据乾隆2年刻本影印本。——《中国地方志联合目录》等书均著录为乾隆元年刻本。按尹会一《江南通志序》末署“时乾隆二年岁次丁巳春正月谷旦”，《序》例不得晚于刻印之年，今据正。",
+      "元年（1723）进士，改庶吉士，散馆授编修，充日讲起居注，迁侍讲，再迁户部郎中，升内阁侍读学士，雍正6年署江苏巡抚，次年实授；先后于雍正9年、乾隆8年、16年、19年四任两江总督。历云贵总督，川陕总督，累官至文华殿大学士兼军机大臣。卒谥文端。《清史列传》卷18、《清史稿》卷307有传。之隽，清休宁（今安徽省休宁县）人，",
+      "江苏省通志稿 三百九十二卷／缪荃孙、冯煦、庄蕴宽、吴廷燮等纂修·—民国34年（1945）铅印本；清宣统间稿本；民国12年稿本；20年稿本；34年稿本；抄本。——除民国34年稿本外，其余各种版本均不全。《中国地方志联合目录》著录为《",
+      "（倪 波 郑建明） 江苏省鉴 九章／赵如珩著·—民国24年（1935）新中国建设学会铅印本，题为《新中国建设学会丛书》第21种，1983年台北成文出版社有限公司《中国方志丛书》本。——《中国地方志联合目录》未著录。书前《序》云：“鉴者，鉴往以察来也，其意与古之志乘同，而体例取材，则大有改革，",
+      "故不袭志乘之旧名。” 如珩，宝山人，历任江苏省《保卫委员会丛书》和《半月刊》主编，江苏省军警干部训练所教员。如珩数历寒暑搜辑江苏资料，进行调查研究，复倾全力去取汇编，于1934年8月成书，并由冷遹、黄炎培、汪恒源、赵正平等为之校阅。书中记载大致至1933年6月底止，各种统计图表材料则以1934年6月底所能得到者为限。记",
+      "江苏各县志摘抄 ·—（明）抄本。—已残，今存4册，藏台北中央研究院历史语言所。《中国地方志联合目录》未著录。",
+      "江宁布政司属疆域表 ·—（清）抄本；1983年台北成文出版社有限公司《中国方志丛书》据抄本影印本。——《中国地方志联合目录》未著录。",
+      "江宁布政司属府厅州县舆图道里清册·—（清）抄本；1983年台北成文出版社有限公司《中国方志丛书》据抄本影印本。——《中国地方志联合目录》未著录。",
+      "（张乃格） 大中华江苏省地理志 一百六十章／林传甲编·—民国7年（1918）商务印书馆铅印本。——《中国地方志联合目录》未著录。",
+      "《中国地方志联合目录》未著录。“江宁”，此指江苏一省，而非指“江宁府”或“江宁县”。",
+      "（倪 波 郑建明） 江苏（分省地志） 四编／李长傅编·—民国24年（1935）上海商务印书馆初版；民国30年（1941）中华书局再版本。——《中国地方志联合目录》著录为“江苏省地方志”，今据原本。",
+      "江宁府志 三十四卷／（清）陈开虞修，张怡纂·—康熙7年（1668）刻本；乾隆54年（1789）孙觐光补刻本；嘉庆7年（1802）补刻本。——江宁府，清顺治2年（1654）改应天府而置，辖境大致与今南京市相当。张怡，《中国地方志联合目录》未著录。",
+      "江宁府志 四十卷／（清）于成龙纂修·—清康熙22年（1683）刻本，精抄本。——已残。今存卷3～29、34～40。刻本藏北京图书馆，《中国地方志联合目录》未著录。",
+      "燕昭，清河南新安人，嘉庆12年来任江宁知府。鼐（1732—1815），字姬传，一字梦榖，室名惜抱轩，旧称惜抱先生，安徽桐城人。乾隆进士，官刑部郎中，记名御史。历主江宁、扬州等地书院凡40年。清散文家，为“桐城派”主要作家。著有《惜抱轩全集》，选有《古文辞类繤》、《五七言今体诗钞》。此为姚鼐主讲钟山书院时应吕燕昭之聘所纂",
+      "（时觉非） 江宁府七县地形考略 一卷附图一卷／（清）吴崧庆纂·—清光绪间江楚书局刻本。——《中国地方志联合目录》未著录。",
+      "（倪 波 郑建明） 新南京 南京市政秘书处·—民国24年（1935）南京共和书局铅印本。——《中国地方志联合目录》未著录。",
+      "遗像，遗嘱并插图32幅。第1章史地概略；第2章名胜古迹；第3章市行政组织；第4章警政概况；第5章市财政及地政概况；第6章教育概况；第7章水陆空交通；第8章公共卫生；第9章市救济事业；第10章农工商业；第11章各机关社团地址。资料以编辑时事为主，对于了解民国政府机构及有关事业的历史具有一定的价值。",
+      "（倪 波 郑建明） 首都乡土研究 李清悚、蒋子奇主编·—民国19年（1930）南京中区实验学校铅印本。——《中国地方志联合目录》未著录。",
+      "（倪 波 郑建明） 洪武京城图志 一卷／明洪武28年（1395）刻本；明弘治5年（1492）重刊本；弘治重刻影印本。——《中国地方志联合目录》未著录。",
+      "（倪 波 郑建明） 金陵地志图考 ·—清抄本；1983年台北成文出版社《中国方志丛书》影印本。——《中国地方志联合目录》未著录。",
+      "是书无目录、序、跋。正文首列金陵历代纪年事表，记事自建安2年（197）起至清顺治2年（1645）止。图考部分包括：吴越楚地图考、秦秣陵县图考、汉丹阳郡图考、孙吴都建业图考、东晋都建康图考、南朝都建康图考、隋蒋州图考、唐升州图考、南唐江宁府图考、宋建康府图考、元集庆路图考、明都城图考、历代互见图考。",
+      "（倪 波 郑建明） 金陵历代建置表 一卷／傅春官撰·—金陵丛刊本。——《中国地方志联合目录》未著录。",
+      "春官，字苕生，江宁人。勤于学问，耆学长者亦乐为指导。金陵建置，最为多故，言掌故者难之。此表分成5栏，一曰国都，二曰州府，三曰留军，四曰郡州府，五曰县。表中著录，类有门径，讲版本目录之学，眉目既极清晰，考证亦复详明。",
+      "邦贤，生平未详。栖霞山志、寺志，自明及清，盛时泰、楚云、张怡、僧可浩、金銮、文伯仁等，虽曾屡屡纂辑，但所记多偏于诗文、古迹、名僧，而于社会状况却少有涉及，而民国期间，栖霞厉行自治、兴办教育、改良种植，新事颇多，邦贤遂以两年之功，调查考证，编成此志。书以“新志”命名，盖与盛时泰等旧志相对而言。书前有民国19年《自序》、凡",
+      "玄武湖志 八卷／（民国）夏仁虎纂·—民国21年（1932）刊本，江苏广陵古籍刻印社1987年影印本。——《中国地方志联合目录》未著录。",
+      "（黄 静） 莫愁湖志 六卷／（清）马士图撰·—清嘉庆20年（1815）刻本，清光绪8年（1882）重锓本。——莫愁湖，在南京城西。《中国地方志联合目录》未著录。",
+      "秦淮广记 三卷／（民国）缪荃孙编纂·—民国13年（1924）上海商务印书馆铅印本。——《中国地方志联合目录》未著录。秦淮在今南京城区南部，以秦淮河横贯于此得名，自古为南京繁华之区。",
+      "仁虎，生平已见《玄武湖志》提要。南京山水，秦淮为胜。城南秦淮一区，自明初设教坊司，青楼管弦，风流不歇，遂成繁华闹市，后又屡经兵燹，流水栖鸦，江山依旧，而风台月榭，景物全非，仁虎乃参稽图志，询诸故老，于1943年撰成是书。凡12卷。前有傅岳棻《夏枝巢同年秦淮志序》，仁虎《自序》、述例、目录。卷1流域志；卷2汇通志；卷3津",
+      "寅亮，字屺瞻，明钱塘（今杭州市）人。万历29年进士，历官主事、福建提学使、南京礼部祠祭司郎中、南京尚宝卿等。有政声。金陵古为帝王都，梵刹名闻海内，骚人向有“南朝四百八十寺”之称。然历经唐、宋、元兵燹，圮毁几尽，原野寥廓，钟声罕闻。万历35年（1607年），葛寅亮于南京礼部祠祭司任上将颓者葺之，去籍者复之，不持仪律者饬之",
+      "金陵玄观志 十三卷／（明）葛寅亮撰·—明刻本；民国26年（1937）影印明刻本；民国37年柳诒徵校刊本。——《中国地方志联合目录》未著录。",
+      "寅亮，生平已见前。此志当亦撰于葛寅亮南京礼部祠祭司在任期间。书前有朝天宫景图、神乐观景图，目录。体例类乎《金陵梵刹志》，以大观为纲，中观丽于大观，小庙丽于中观。记大观冶山朝天宫、神乐观凡2，中规石城山灵应观、狮子山卢龙观、长寿山朝真观、方山洞玄观、吉山祠山庙等凡16，小庙51。大观、中观多附敕赐、文、诗、古迹，大观另附"
+    ],
+    "major_sections": [],
+    "notable_place_names": [
+      "扬州",
+      "江苏",
+      "镇江",
+      "苏州",
+      "南京",
+      "泰州",
+      "金陵",
+      "吴江",
+      "吴县",
+      "江宁",
+      "无锡",
+      "太仓",
+      "常熟",
+      "嘉定",
+      "昆山",
+      "淮安",
+      "南通",
+      "兴化",
+      "徐州",
+      "安徽",
+      "盐城",
+      "上海",
+      "兴化县",
+      "阜宁",
+      "阜宁县",
+      "松江",
+      "海安",
+      "连云港",
+      "盛泽",
+      "歙县"
+    ],
+    "notable_person_names": [
+      "季文通",
+      "徐复",
+      "主编"
+    ],
+    "notable_transport_references": [
+      "桥梁",
+      "交通",
+      "运河",
+      "道路",
+      "驿站",
+      "铁路",
+      "公路",
+      "码头",
+      "渡口"
+    ],
+    "notable_dialect_references": [
+      "方言",
+      "俗语",
+      "吴语"
+    ],
+    "notable_custom_folk_references": [
+      "风俗",
+      "风土",
+      "岁时",
+      "民俗",
+      "习俗",
+      "祭祀",
+      "婚丧",
+      "庙会",
+      "节令"
+    ],
+    "notable_relic_cultural_heritage_references": [
+      "古迹",
+      "书院",
+      "胜迹",
+      "文物",
+      "遗址",
+      "文化遗产"
+    ],
+    "quality_warnings": []
+  },
+  {
+    "doc_id": "swhgz_183d73f4dfa0",
+    "source_file_name": "江苏省志 文物志.pdf.baiduyun.p.downloading",
+    "region": "江苏",
+    "period": [],
+    "gazetteer_type": [
+      "省志/通志",
+      "文化教育文物"
+    ],
+    "page_count": 815,
+    "ocr_text_status": "0/815 page/chunk records have existing text; 815 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "Source filename indicates an incomplete download.",
+      "needs_ocr: 815 page/chunk records",
+      "possible_blank_page: 22 page/chunk records"
+    ]
+  },
+  {
+    "doc_id": "swhgz_b1898e92cfcb",
+    "source_file_name": "苏州市志 第一册.rar",
+    "region": "江苏",
+    "period": [],
+    "gazetteer_type": [
+      "府州县区市志"
+    ],
+    "page_count": 0,
+    "ocr_text_status": "0/0 page/chunk records have existing text; 0 require OCR.",
+    "detected_table_of_contents": [],
+    "major_sections": [],
+    "notable_place_names": [],
+    "notable_person_names": [],
+    "notable_transport_references": [],
+    "notable_dialect_references": [],
+    "notable_custom_folk_references": [],
+    "notable_relic_cultural_heritage_references": [],
+    "quality_warnings": [
+      "Source is an archive; text extraction was not performed in this stage.",
+      "Source manifest recorded errors.",
+      "archive_not_extracted_in_text_stage: 苏州市志 第一册.pdf",
+      "No page/chunk text records were produced for this document."
+    ]
+  }
+]

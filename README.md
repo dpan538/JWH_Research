@@ -44,6 +44,14 @@ python3 scripts/09_annotate_entities.py
 python3 scripts/10_export_reading_markdown.py
 python3 scripts/11_generate_index.py
 python3 scripts/12_quality_report.py
+python3 scripts/13_build_reading_export_layer.py
 ```
 
 `scripts/07_run_ocr_pilot.py` is safe by default and only writes a dry-run plan. Real OCR requires `--execute`.
+
+The structured reading layer is written to `data/reading_exports/documents/{doc_id}/` with:
+
+- `raw_text.md`
+- `clean_reading.md`
+- `annotated_reading.md`
+- `summary.md`
